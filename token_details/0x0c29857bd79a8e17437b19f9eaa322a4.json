@@ -1,13 +1,13 @@
 {
     "name": "FEIT",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199240.33364961",
-    "circulatingSupply": "659124.05303185",
+    "totalSupply": "1199239.86372674",
+    "circulatingSupply": "659123.58310898",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.197485",
-    "markPx": "0.19719",
-    "prevDayPx": "0.20194",
+    "midPx": "0.19515",
+    "markPx": "0.19544",
+    "prevDayPx": "0.19896",
     "genesis": {
         "userBalances": [
             [

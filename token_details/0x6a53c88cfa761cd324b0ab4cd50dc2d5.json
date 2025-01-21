@@ -1,13 +1,13 @@
 {
     "name": "NASDAQ",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199461.24885979",
-    "circulatingSupply": "776234.69457779",
+    "totalSupply": "1199459.4438761",
+    "circulatingSupply": "776232.8895941",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.270565",
-    "markPx": "0.27016",
-    "prevDayPx": "0.30803",
+    "midPx": "0.20092",
+    "markPx": "0.20062",
+    "prevDayPx": "0.28506",
     "genesis": {
         "userBalances": [
             [

@@ -1,13 +1,13 @@
 {
     "name": "KOBE",
     "maxSupply": "1000000000.0",
-    "totalSupply": "998181702.10599005",
-    "circulatingSupply": "758181702.10599005",
+    "totalSupply": "998181095.93276",
+    "circulatingSupply": "758181095.93276",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00017435",
-    "markPx": "0.00017461",
-    "prevDayPx": "0.00017619",
+    "midPx": "0.00017227",
+    "markPx": "0.00017201",
+    "prevDayPx": "0.00017461",
     "genesis": {
         "userBalances": [
             [

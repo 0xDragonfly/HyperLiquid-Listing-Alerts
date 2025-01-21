@@ -1,13 +1,13 @@
 {
     "name": "FLASK",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199214.68898618",
-    "circulatingSupply": "1104341.88898618",
+    "totalSupply": "1199214.46933895",
+    "circulatingSupply": "1104341.66933895",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.206545",
-    "markPx": "0.20624",
-    "prevDayPx": "0.22616",
+    "midPx": "0.200145",
+    "markPx": "0.2001",
+    "prevDayPx": "0.2131",
     "genesis": {
         "userBalances": [
             [

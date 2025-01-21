@@ -1,13 +1,13 @@
 {
     "name": "NEIRO",
     "maxSupply": "98750000.0",
-    "totalSupply": "98696780.668799",
-    "circulatingSupply": "98696759.85293099",
+    "totalSupply": "98696775.186031",
+    "circulatingSupply": "98696754.37016299",
     "szDecimals": 1,
     "weiDecimals": 6,
-    "midPx": "0.0022046",
-    "markPx": "0.0022013",
-    "prevDayPx": "0.0023093",
+    "midPx": "0.0021396",
+    "markPx": "0.0021364",
+    "prevDayPx": "0.0022479",
     "genesis": {
         "userBalances": [
             [

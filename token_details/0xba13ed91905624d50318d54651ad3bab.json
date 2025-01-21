@@ -1,13 +1,13 @@
 {
     "name": "ADHD",
     "maxSupply": "100000000.0",
-    "totalSupply": "99357730.45184",
-    "circulatingSupply": "99357730.45184",
+    "totalSupply": "99357727.52166",
+    "circulatingSupply": "99357727.52166",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.0061712",
-    "markPx": "0.006162",
-    "prevDayPx": "0.0083087",
+    "midPx": "0.0056758",
+    "markPx": "0.0056673",
+    "prevDayPx": "0.0066004",
     "genesis": {
         "userBalances": [
             [

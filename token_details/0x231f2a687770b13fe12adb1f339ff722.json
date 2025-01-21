@@ -1,11 +1,11 @@
 {
     "name": "BIGBEN",
     "maxSupply": "10000000000.0",
-    "totalSupply": "9999268069.94375801",
-    "circulatingSupply": "159268363.04101655",
+    "totalSupply": "9999268061.33724594",
+    "circulatingSupply": "159268354.43450561",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.001414",
+    "midPx": "0.001412",
     "markPx": "0.001412",
     "prevDayPx": "0.00142",
     "genesis": {

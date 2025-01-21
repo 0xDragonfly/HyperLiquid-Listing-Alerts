@@ -1,13 +1,13 @@
 {
     "name": "LORA",
     "maxSupply": "1004598.62",
-    "totalSupply": "1004127.58578712",
-    "circulatingSupply": "1004127.58578712",
+    "totalSupply": "1004127.55116009",
+    "circulatingSupply": "1004127.55116009",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.34269",
-    "markPx": "0.34218",
-    "prevDayPx": "0.35998",
+    "midPx": "0.34167",
+    "markPx": "0.34116",
+    "prevDayPx": "0.35571",
     "genesis": {
         "userBalances": [
             [

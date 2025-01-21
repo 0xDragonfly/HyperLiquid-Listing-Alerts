@@ -1,13 +1,13 @@
 {
     "name": "VAPOR",
     "maxSupply": "1045000000.0",
-    "totalSupply": "1001288444.11150002",
-    "circulatingSupply": "1001269213.83424997",
+    "totalSupply": "1001277010.27333999",
+    "circulatingSupply": "1001257779.99609005",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.0293625",
-    "markPx": "0.029319",
-    "prevDayPx": "0.031119",
+    "midPx": "0.0279965",
+    "markPx": "0.028038",
+    "prevDayPx": "0.030934",
     "genesis": {
         "userBalances": [
             [

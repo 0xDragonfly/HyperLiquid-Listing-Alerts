@@ -5,9 +5,9 @@
     "circulatingSupply": "96832686.05732571",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.007781",
-    "markPx": "0.00777",
-    "prevDayPx": "0.008031",
+    "midPx": "0.007643",
+    "markPx": "0.007632",
+    "prevDayPx": "0.007935",
     "genesis": {
         "userBalances": [
             [

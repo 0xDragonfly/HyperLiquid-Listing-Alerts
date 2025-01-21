@@ -1,13 +1,13 @@
 {
     "name": "YAP",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199210.6970198",
-    "circulatingSupply": "918100.6935198",
+    "totalSupply": "1199208.77472943",
+    "circulatingSupply": "918098.77122943",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.185405",
-    "markPx": "0.18513",
-    "prevDayPx": "0.20059",
+    "midPx": "0.253375",
+    "markPx": "0.253",
+    "prevDayPx": "0.18902",
     "genesis": {
         "userBalances": [
             [

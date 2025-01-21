@@ -1,13 +1,13 @@
 {
     "name": "PURRPS",
     "maxSupply": "999998800.0",
-    "totalSupply": "937459383.5869",
-    "circulatingSupply": "901768736.20264995",
+    "totalSupply": "937456070.61476004",
+    "circulatingSupply": "901765423.23051",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00014023",
-    "markPx": "0.00014002",
-    "prevDayPx": "0.00015879",
+    "midPx": "0.00014149",
+    "markPx": "0.0001417",
+    "prevDayPx": "0.00013346",
     "genesis": {
         "userBalances": [
             [

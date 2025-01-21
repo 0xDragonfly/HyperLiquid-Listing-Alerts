@@ -1,13 +1,13 @@
 {
     "name": "CHINA",
     "maxSupply": "1000000.0",
-    "totalSupply": "999679.934398",
-    "circulatingSupply": "579770.264398",
+    "totalSupply": "999679.79371619",
+    "circulatingSupply": "579770.12371619",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.632055",
-    "markPx": "0.63111",
-    "prevDayPx": "0.64253",
+    "midPx": "0.62082",
+    "markPx": "0.61989",
+    "prevDayPx": "0.63489",
     "genesis": {
         "userBalances": [
             [

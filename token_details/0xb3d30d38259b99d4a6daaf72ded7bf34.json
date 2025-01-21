@@ -1,13 +1,13 @@
 {
     "name": "FRUDO",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199484.32972508",
-    "circulatingSupply": "698179.17494771",
+    "totalSupply": "1199483.10871767",
+    "circulatingSupply": "698177.9539403",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.184335",
-    "markPx": "0.18461",
-    "prevDayPx": "0.20977",
+    "midPx": "0.18933",
+    "markPx": "0.18905",
+    "prevDayPx": "0.17396",
     "genesis": {
         "userBalances": [
             [

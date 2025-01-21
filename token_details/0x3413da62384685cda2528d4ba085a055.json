@@ -1,13 +1,13 @@
 {
     "name": "MONAD",
     "maxSupply": "225000000.0",
-    "totalSupply": "224897896.44870105",
-    "circulatingSupply": "224627689.38724557",
+    "totalSupply": "224897779.4104344",
+    "circulatingSupply": "224627572.34897891",
     "szDecimals": 1,
     "weiDecimals": 8,
-    "midPx": "0.0017374",
-    "markPx": "0.0017348",
-    "prevDayPx": "0.0017504",
+    "midPx": "0.001686",
+    "markPx": "0.0016835",
+    "prevDayPx": "0.00174",
     "genesis": {
         "userBalances": [
             [

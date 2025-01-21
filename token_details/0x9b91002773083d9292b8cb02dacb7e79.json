@@ -1,13 +1,13 @@
 {
     "name": "MAGA",
     "maxSupply": "99999994.0",
-    "totalSupply": "99950482.16027939",
-    "circulatingSupply": "80595677.2408852",
+    "totalSupply": "99949954.3122059",
+    "circulatingSupply": "80595149.3928117",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.001815",
-    "markPx": "0.001818",
-    "prevDayPx": "0.002664",
+    "midPx": "0.002159",
+    "markPx": "0.002156",
+    "prevDayPx": "0.002688",
     "genesis": {
         "userBalances": [
             [

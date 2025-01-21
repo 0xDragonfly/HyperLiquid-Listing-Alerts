@@ -1,13 +1,13 @@
 {
     "name": "LICK",
     "maxSupply": "6900000000.0",
-    "totalSupply": "6873012042.84965992",
-    "circulatingSupply": "4875012036.79333019",
+    "totalSupply": "6873011960.23095036",
+    "circulatingSupply": "4875011954.17461967",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00015738",
-    "markPx": "0.00015715",
-    "prevDayPx": "0.00017452",
+    "midPx": "0.00015597",
+    "markPx": "0.00015574",
+    "prevDayPx": "0.00017296",
     "genesis": {
         "userBalances": [
             [

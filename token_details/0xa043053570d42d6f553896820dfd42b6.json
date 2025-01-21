@@ -1,13 +1,13 @@
 {
     "name": "LIQD",
     "maxSupply": "1200000000.0",
-    "totalSupply": "1199522531.02700996",
-    "circulatingSupply": "1120373295.32700992",
+    "totalSupply": "1199504773.65414214",
+    "circulatingSupply": "1120355537.95414233",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.029555",
-    "markPx": "0.02958",
-    "prevDayPx": "0.025573",
+    "midPx": "0.033022",
+    "markPx": "0.033049",
+    "prevDayPx": "0.025013",
     "genesis": {
         "userBalances": [
             [

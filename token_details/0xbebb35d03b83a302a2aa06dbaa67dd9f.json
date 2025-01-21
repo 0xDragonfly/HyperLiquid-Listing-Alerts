@@ -1,13 +1,13 @@
 {
     "name": "ATEHUN",
     "maxSupply": "1107274.0",
-    "totalSupply": "1104858.16907402",
-    "circulatingSupply": "907441.32126402",
+    "totalSupply": "1104855.83641599",
+    "circulatingSupply": "907438.98860599",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "2.8141",
-    "markPx": "2.8183",
-    "prevDayPx": "3.0362",
+    "midPx": "3.2179",
+    "markPx": "3.2131",
+    "prevDayPx": "2.8015",
     "genesis": {
         "userBalances": [
             [

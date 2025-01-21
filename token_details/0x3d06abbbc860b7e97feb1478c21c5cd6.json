@@ -1,13 +1,13 @@
 {
     "name": "HAPPY",
     "maxSupply": "1000000.0",
-    "totalSupply": "998584.34171754",
-    "circulatingSupply": "988584.34171754",
+    "totalSupply": "998584.32413502",
+    "circulatingSupply": "988584.32413502",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.31581",
-    "markPx": "0.31534",
-    "prevDayPx": "0.32199",
+    "midPx": "0.31393",
+    "markPx": "0.31346",
+    "prevDayPx": "0.31722",
     "genesis": {
         "userBalances": [
             [

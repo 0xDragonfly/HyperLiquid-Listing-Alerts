@@ -1,13 +1,13 @@
 {
     "name": "RUG",
     "maxSupply": "100000000.0",
-    "totalSupply": "99780071.74597",
-    "circulatingSupply": "99780071.74597",
+    "totalSupply": "99780005.87451001",
+    "circulatingSupply": "99780005.87451001",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.010196",
-    "markPx": "0.010181",
-    "prevDayPx": "0.010831",
+    "midPx": "0.0104155",
+    "markPx": "0.010408",
+    "prevDayPx": "0.010703",
     "genesis": {
         "userBalances": [
             [

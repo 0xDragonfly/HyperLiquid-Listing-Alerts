@@ -1,13 +1,13 @@
 {
     "name": "BUSSY",
     "maxSupply": "1007081.474625",
-    "totalSupply": "1006270.75540679",
-    "circulatingSupply": "714428.38540679",
+    "totalSupply": "1006270.2567646",
+    "circulatingSupply": "714427.8867646",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.373485",
-    "markPx": "0.37293",
-    "prevDayPx": "0.37814",
+    "midPx": "0.383525",
+    "markPx": "0.38398",
+    "prevDayPx": "0.37516",
     "genesis": {
         "userBalances": [
             [

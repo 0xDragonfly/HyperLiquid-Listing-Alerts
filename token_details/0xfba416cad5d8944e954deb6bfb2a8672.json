@@ -1,12 +1,12 @@
 {
     "name": "TATE",
     "maxSupply": "100000000.0",
-    "totalSupply": "99930094.32426",
-    "circulatingSupply": "99930094.32426",
+    "totalSupply": "99930088.20607001",
+    "circulatingSupply": "99930088.20607001",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.0152825",
-    "markPx": "0.01526",
+    "midPx": "0.0152375",
+    "markPx": "0.015215",
     "prevDayPx": "0.015305",
     "genesis": {
         "userBalances": [

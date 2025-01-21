@@ -1,13 +1,13 @@
 {
     "name": "JEFF",
     "maxSupply": "1000000.0",
-    "totalSupply": "995756.29126",
-    "circulatingSupply": "991085.97467",
+    "totalSupply": "995752.90545",
+    "circulatingSupply": "991082.58886",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "11.9895",
-    "markPx": "12.008",
-    "prevDayPx": "11.344",
+    "midPx": "13.156",
+    "markPx": "13.136",
+    "prevDayPx": "11.514",
     "genesis": {
         "userBalances": [
             [

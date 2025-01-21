@@ -1,13 +1,13 @@
 {
     "name": "SELL",
     "maxSupply": "400000000.0",
-    "totalSupply": "393942943.98517001",
-    "circulatingSupply": "318969934.40617001",
+    "totalSupply": "393942919.88533002",
+    "circulatingSupply": "318969910.30633003",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.0004205",
-    "markPx": "0.00041987",
-    "prevDayPx": "0.00045117",
+    "midPx": "0.00040931",
+    "markPx": "0.0004087",
+    "prevDayPx": "0.00043005",
     "genesis": {
         "userBalances": [
             [

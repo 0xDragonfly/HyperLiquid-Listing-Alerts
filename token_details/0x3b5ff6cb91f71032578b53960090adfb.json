@@ -1,13 +1,13 @@
 {
     "name": "CZ",
     "maxSupply": "4444425.7977148",
-    "totalSupply": "4437314.3770493",
-    "circulatingSupply": "4437314.3770493",
+    "totalSupply": "4437313.9546008",
+    "circulatingSupply": "4437313.9546008",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.24746",
-    "markPx": "0.24709",
-    "prevDayPx": "0.24857",
+    "midPx": "0.22297",
+    "markPx": "0.22264",
+    "prevDayPx": "0.24783",
     "genesis": {
         "userBalances": [
             [

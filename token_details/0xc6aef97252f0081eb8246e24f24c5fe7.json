@@ -1,0 +1,51 @@
+{
+    "name": "SOVRN",
+    "maxSupply": "1000000000.0",
+    "totalSupply": "999998369.64143717",
+    "circulatingSupply": "832498369.64143717",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.100013",
+    "markPx": "0.10016",
+    "prevDayPx": "0.040292",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x000000000000000000000000000000000000dead",
+                "103228433.0"
+            ],
+            [
+                "0x42c7802b74445e421e3ba9058dbf13b2d326af68",
+                "64271567.0"
+            ],
+            [
+                "0x5cedcb1fc2f201ad7063ddc2c08557a6e3d82a51",
+                "781442000.0"
+            ],
+            [
+                "0xad2de7278bc7381d5575d83d8b7ba89f2238969d",
+                "40000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "11058000.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x86df30c32992f4659350c98c2bbb95e081ff7dc1",
+    "deployGas": "262660.171698",
+    "deployTime": "2024-12-14T10:42:01.550",
+    "seededUsdc": "64608.98885",
+    "nonCirculatingUserBalances": [
+        [
+            "0x000000000000000000000000000000000000dead",
+            "103228433.0"
+        ],
+        [
+            "0x42c7802b74445e421e3ba9058dbf13b2d326af68",
+            "64271567.0"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

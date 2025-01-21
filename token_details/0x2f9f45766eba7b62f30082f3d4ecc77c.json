@@ -1,13 +1,13 @@
 {
     "name": "GPT",
     "maxSupply": "9200000000.0",
-    "totalSupply": "9115849731.39127159",
-    "circulatingSupply": "3110151258.63340569",
+    "totalSupply": "9115849471.10668564",
+    "circulatingSupply": "3110150998.34881783",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.000114",
-    "markPx": "0.000093",
-    "prevDayPx": "0.000095",
+    "midPx": "0.000115",
+    "markPx": "0.000135",
+    "prevDayPx": "0.000094",
     "genesis": {
         "userBalances": [
             [

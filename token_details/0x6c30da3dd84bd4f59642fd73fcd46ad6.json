@@ -1,13 +1,13 @@
 {
     "name": "DROP",
     "maxSupply": "100000000.0",
-    "totalSupply": "98098530.59369799",
-    "circulatingSupply": "95260187.4402393",
+    "totalSupply": "98098413.38573471",
+    "circulatingSupply": "95260070.23227599",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.001587",
-    "markPx": "0.001566",
-    "prevDayPx": "0.002409",
+    "midPx": "0.001449",
+    "markPx": "0.001446",
+    "prevDayPx": "0.002998",
     "genesis": {
         "userBalances": [
             [

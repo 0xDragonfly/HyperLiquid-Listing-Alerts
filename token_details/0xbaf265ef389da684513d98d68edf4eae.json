@@ -1,13 +1,13 @@
 {
     "name": "HFUN",
     "maxSupply": "1000000.0",
-    "totalSupply": "996933.62989335",
-    "circulatingSupply": "996933.58614125",
+    "totalSupply": "996932.55613068",
+    "circulatingSupply": "996932.51237858",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "155.605",
-    "markPx": "155.64",
-    "prevDayPx": "137.83",
+    "midPx": "159.72",
+    "markPx": "159.84",
+    "prevDayPx": "158.88",
     "genesis": {
         "userBalances": [
             [

@@ -1,13 +1,13 @@
 {
     "name": "MON",
     "maxSupply": "1000000000.0",
-    "totalSupply": "999989736.0914135",
-    "circulatingSupply": "999989736.0821141",
+    "totalSupply": "999989664.92070544",
+    "circulatingSupply": "999989664.91140604",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.068152",
-    "markPx": "0.068153",
-    "prevDayPx": "0.082801",
+    "midPx": "0.075346",
+    "markPx": "0.075233",
+    "prevDayPx": "0.07691",
     "genesis": {
         "userBalances": [
             [

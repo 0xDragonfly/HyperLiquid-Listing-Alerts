@@ -1,13 +1,13 @@
 {
     "name": "STRICT",
     "maxSupply": "1000000000.0",
-    "totalSupply": "999696386.4612",
-    "circulatingSupply": "999597137.41949999",
+    "totalSupply": "999696366.25032997",
+    "circulatingSupply": "999597117.20862997",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00026989",
-    "markPx": "0.00026949",
-    "prevDayPx": "0.00028104",
+    "midPx": "0.00026508",
+    "markPx": "0.00026469",
+    "prevDayPx": "0.00026949",
     "genesis": {
         "userBalances": [
             [

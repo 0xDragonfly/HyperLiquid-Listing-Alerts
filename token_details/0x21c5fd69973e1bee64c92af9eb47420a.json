@@ -1,12 +1,12 @@
 {
     "name": "BID",
     "maxSupply": "21000000000.0",
-    "totalSupply": "20370715829.52088165",
-    "circulatingSupply": "19934305008.31087875",
+    "totalSupply": "20370714011.0383606",
+    "circulatingSupply": "19934303189.82836151",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00001266",
-    "markPx": "0.00001264",
+    "midPx": "0.00001246",
+    "markPx": "0.00001244",
     "prevDayPx": "0.00001252",
     "genesis": {
         "userBalances": [

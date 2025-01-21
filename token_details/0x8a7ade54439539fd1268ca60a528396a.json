@@ -1,12 +1,12 @@
 {
     "name": "ANT",
     "maxSupply": "1000000.0",
-    "totalSupply": "999515.58927166",
-    "circulatingSupply": "999515.58927166",
+    "totalSupply": "999515.51380316",
+    "circulatingSupply": "999515.51380316",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.166265",
-    "markPx": "0.16602",
+    "midPx": "0.164795",
+    "markPx": "0.16455",
     "prevDayPx": "0.17462",
     "genesis": {
         "userBalances": [

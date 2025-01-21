@@ -1,13 +1,13 @@
 {
     "name": "STAR",
     "maxSupply": "100000000.0",
-    "totalSupply": "99994805.34484002",
-    "circulatingSupply": "99994800.10543343",
+    "totalSupply": "99994754.81862198",
+    "circulatingSupply": "99994749.57921541",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.16004",
-    "markPx": "0.15998",
-    "prevDayPx": "0.16094",
+    "midPx": "0.159515",
+    "markPx": "0.15952",
+    "prevDayPx": "0.16046",
     "genesis": {
         "userBalances": [
             [

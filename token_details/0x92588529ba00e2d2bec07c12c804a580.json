@@ -1,13 +1,13 @@
 {
     "name": "PANDA",
     "maxSupply": "100000000.0",
-    "totalSupply": "99875783.4734",
-    "circulatingSupply": "78204817.0345",
+    "totalSupply": "99875512.17831001",
+    "circulatingSupply": "78204545.73941",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.0087512",
-    "markPx": "0.0087381",
-    "prevDayPx": "0.0088168",
+    "midPx": "0.00965885",
+    "markPx": "0.0096444",
+    "prevDayPx": "0.0087381",
     "genesis": {
         "userBalances": [
             [

@@ -1,13 +1,13 @@
 {
     "name": "PIGEON",
     "maxSupply": "1000000.0",
-    "totalSupply": "999703.23213932",
-    "circulatingSupply": "569912.62213932",
+    "totalSupply": "999703.2014772",
+    "circulatingSupply": "569912.5914772",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.50063",
-    "markPx": "0.49988",
-    "prevDayPx": "0.51813",
+    "midPx": "0.480125",
+    "markPx": "0.47941",
+    "prevDayPx": "0.5074",
     "genesis": {
         "userBalances": [
             [

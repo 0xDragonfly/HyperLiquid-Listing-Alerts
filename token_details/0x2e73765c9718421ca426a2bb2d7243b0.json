@@ -1,13 +1,13 @@
 {
     "name": "NIGGO",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199589.67965181",
-    "circulatingSupply": "716811.54460359",
+    "totalSupply": "1199586.59793431",
+    "circulatingSupply": "716808.46288609",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.251175",
-    "markPx": "0.25155",
-    "prevDayPx": "0.39693",
+    "midPx": "0.21579",
+    "markPx": "0.21547",
+    "prevDayPx": "0.36731",
     "genesis": {
         "userBalances": [
             [

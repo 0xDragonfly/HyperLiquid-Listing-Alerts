@@ -1,13 +1,13 @@
 {
     "name": "GUESS",
     "maxSupply": "10000000.0",
-    "totalSupply": "9990594.7365738",
-    "circulatingSupply": "9834388.5784002",
+    "totalSupply": "9990589.4302825",
+    "circulatingSupply": "9834383.2721089",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.013074",
-    "markPx": "0.013055",
-    "prevDayPx": "0.016889",
+    "midPx": "0.012957",
+    "markPx": "0.012938",
+    "prevDayPx": "0.013492",
     "genesis": {
         "userBalances": [
             [

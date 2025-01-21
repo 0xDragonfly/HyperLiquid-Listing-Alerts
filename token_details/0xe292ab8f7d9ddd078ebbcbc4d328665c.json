@@ -1,13 +1,13 @@
 {
     "name": "HBOOST",
     "maxSupply": "1000000000.0",
-    "totalSupply": "986482484.93060994",
-    "circulatingSupply": "896479474.66150999",
+    "totalSupply": "986480884.25804996",
+    "circulatingSupply": "896477873.98895001",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.0001924",
-    "markPx": "0.00019269",
-    "prevDayPx": "0.0002205",
+    "midPx": "0.00021239",
+    "markPx": "0.00021271",
+    "prevDayPx": "0.00018645",
     "genesis": {
         "userBalances": [
             [

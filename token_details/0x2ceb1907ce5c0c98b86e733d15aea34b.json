@@ -1,13 +1,13 @@
 {
     "name": "SENT",
     "maxSupply": "1200000000.0",
-    "totalSupply": "1199826627.80734134",
-    "circulatingSupply": "1095782890.76205945",
+    "totalSupply": "1199811817.89152884",
+    "circulatingSupply": "1095768080.84624696",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.001298",
-    "markPx": "0.0013",
-    "prevDayPx": "0.001212",
+    "midPx": "0.001438",
+    "markPx": "0.001436",
+    "prevDayPx": "0.001208",
     "genesis": {
         "userBalances": [
             [

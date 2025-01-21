@@ -1,13 +1,13 @@
 {
     "name": "CATNIP",
     "maxSupply": "10000000.0",
-    "totalSupply": "9925263.27256218",
-    "circulatingSupply": "9925263.27256218",
+    "totalSupply": "9925257.5420397",
+    "circulatingSupply": "9925257.5420397",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.024504",
-    "markPx": "0.02449",
-    "prevDayPx": "0.027805",
+    "midPx": "0.02553",
+    "markPx": "0.025492",
+    "prevDayPx": "0.025722",
     "genesis": {
         "userBalances": [
             [

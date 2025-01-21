@@ -1,13 +1,13 @@
 {
     "name": "PEAR",
     "maxSupply": "99998200.0",
-    "totalSupply": "99861814.76249599",
-    "circulatingSupply": "99861564.811352",
+    "totalSupply": "99861812.37120301",
+    "circulatingSupply": "99861562.420059",
     "szDecimals": 1,
     "weiDecimals": 6,
-    "midPx": "0.0021895",
-    "markPx": "0.0021862",
-    "prevDayPx": "0.0024942",
+    "midPx": "0.0020746",
+    "markPx": "0.0020777",
+    "prevDayPx": "0.0023005",
     "genesis": {
         "userBalances": [
             [

@@ -1,12 +1,12 @@
 {
     "name": "TJIF",
     "maxSupply": "1000000.0",
-    "totalSupply": "999275.16883102",
-    "circulatingSupply": "788363.29883102",
+    "totalSupply": "999275.10045568",
+    "circulatingSupply": "788363.23045568",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.24038",
-    "markPx": "0.24002",
+    "midPx": "0.230575",
+    "markPx": "0.23023",
     "prevDayPx": "0.24876",
     "genesis": {
         "userBalances": [

@@ -1,13 +1,13 @@
 {
     "name": "CAPPY",
     "maxSupply": "1000000000.0",
-    "totalSupply": "982939801.81034005",
-    "circulatingSupply": "982939192.71608996",
+    "totalSupply": "982939597.19646001",
+    "circulatingSupply": "982938988.10221004",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00015272",
-    "markPx": "0.00012",
-    "prevDayPx": "0.00016527",
+    "midPx": "0.00015952",
+    "markPx": "0.0001201",
+    "prevDayPx": "0.000161",
     "genesis": {
         "userBalances": [
             [

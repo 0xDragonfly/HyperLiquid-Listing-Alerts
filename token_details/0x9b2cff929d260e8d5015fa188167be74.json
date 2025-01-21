@@ -1,13 +1,13 @@
 {
     "name": "HOP",
     "maxSupply": "1200000.0",
-    "totalSupply": "1198937.76875542",
-    "circulatingSupply": "826080.36875542",
+    "totalSupply": "1198936.52922083",
+    "circulatingSupply": "826079.12922083",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.166205",
-    "markPx": "0.16645",
-    "prevDayPx": "0.17096",
+    "midPx": "0.19012",
+    "markPx": "0.19",
+    "prevDayPx": "0.1564",
     "genesis": {
         "userBalances": [
             [

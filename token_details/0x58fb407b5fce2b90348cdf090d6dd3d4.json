@@ -1,13 +1,13 @@
 {
     "name": "FRAC",
     "maxSupply": "23600000.0",
-    "totalSupply": "23594729.639087",
-    "circulatingSupply": "3994729.575127",
+    "totalSupply": "23594700.212455",
+    "circulatingSupply": "3994700.148495",
     "szDecimals": 1,
     "weiDecimals": 6,
-    "midPx": "0.431825",
-    "markPx": "0.43247",
-    "prevDayPx": "0.34682",
+    "midPx": "0.51498",
+    "markPx": "0.51575",
+    "prevDayPx": "0.38613",
     "genesis": {
         "userBalances": [
             [

@@ -1,13 +1,13 @@
 {
     "name": "LUCKY",
     "maxSupply": "925600000.0",
-    "totalSupply": "924954324.94299996",
-    "circulatingSupply": "924654580.89328003",
+    "totalSupply": "924953909.31315994",
+    "circulatingSupply": "924654165.26344001",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00040231",
-    "markPx": "0.00040171",
-    "prevDayPx": "0.00042524",
+    "midPx": "0.00040473",
+    "markPx": "0.00040413",
+    "prevDayPx": "0.00042652",
     "genesis": {
         "userBalances": [
             [

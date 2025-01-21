@@ -1,13 +1,13 @@
 {
     "name": "H",
     "maxSupply": "120000000.0",
-    "totalSupply": "119953313.7139321",
-    "circulatingSupply": "113411108.8671384",
+    "totalSupply": "119951732.3730907",
+    "circulatingSupply": "113409527.526297",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.027032",
-    "markPx": "0.027073",
-    "prevDayPx": "0.025806",
+    "midPx": "0.029132",
+    "markPx": "0.029089",
+    "prevDayPx": "0.024599",
     "genesis": {
         "userBalances": [
             [

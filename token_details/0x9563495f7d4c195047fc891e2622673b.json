@@ -1,13 +1,13 @@
 {
     "name": "BUBZ",
     "maxSupply": "1200000.0",
-    "totalSupply": "1198593.78625015",
-    "circulatingSupply": "1038472.2823871",
+    "totalSupply": "1198589.94693562",
+    "circulatingSupply": "1038468.44307257",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.123405",
-    "markPx": "0.12359",
-    "prevDayPx": "0.17538",
+    "midPx": "0.12978",
+    "markPx": "0.12959",
+    "prevDayPx": "0.11649",
     "genesis": {
         "userBalances": [
             [

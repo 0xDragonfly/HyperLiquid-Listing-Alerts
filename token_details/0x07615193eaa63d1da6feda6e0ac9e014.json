@@ -1,13 +1,13 @@
 {
     "name": "GMEOW",
     "maxSupply": "1000000000.0",
-    "totalSupply": "998405402.35108876",
-    "circulatingSupply": "998405402.35108876",
+    "totalSupply": "998405167.04450619",
+    "circulatingSupply": "998405167.04450619",
     "szDecimals": 0,
     "weiDecimals": 8,
-    "midPx": "0.00060214",
-    "markPx": "0.00060124",
-    "prevDayPx": "0.00061952",
+    "midPx": "0.00060169",
+    "markPx": "0.00060214",
+    "prevDayPx": "0.00061582",
     "genesis": {
         "userBalances": [
             [

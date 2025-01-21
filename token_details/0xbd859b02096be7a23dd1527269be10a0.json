@@ -1,13 +1,13 @@
 {
     "name": "FRIED",
     "maxSupply": "1000000.0",
-    "totalSupply": "999691.55415486",
-    "circulatingSupply": "612779.80415486",
+    "totalSupply": "999691.40678964",
+    "circulatingSupply": "612779.65678964",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.26051",
-    "markPx": "0.26012",
-    "prevDayPx": "0.25704",
+    "midPx": "0.24274",
+    "markPx": "0.24258",
+    "prevDayPx": "0.25249",
     "genesis": {
         "userBalances": [
             [

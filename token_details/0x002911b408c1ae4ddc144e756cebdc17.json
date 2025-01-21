@@ -1,13 +1,13 @@
 {
     "name": "FARMED",
     "maxSupply": "99999999.9999986",
-    "totalSupply": "95893734.8384167",
-    "circulatingSupply": "85960664.4871249",
+    "totalSupply": "95893676.8112185",
+    "circulatingSupply": "85960606.45992669",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.004521",
-    "markPx": "0.0045",
-    "prevDayPx": "0.004419",
+    "midPx": "0.003681",
+    "markPx": "0.003664",
+    "prevDayPx": "0.004578",
     "genesis": {
         "userBalances": [
             [

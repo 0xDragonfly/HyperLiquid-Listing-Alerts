@@ -1,13 +1,13 @@
 {
     "name": "WAGMI",
     "maxSupply": "420000000.0",
-    "totalSupply": "367463293.21606511",
-    "circulatingSupply": "367463293.21606511",
+    "totalSupply": "367462059.76266682",
+    "circulatingSupply": "367462059.76266682",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.00121",
-    "markPx": "0.001208",
-    "prevDayPx": "0.001288",
+    "midPx": "0.000843",
+    "markPx": "0.000844",
+    "prevDayPx": "0.00134",
     "genesis": {
         "userBalances": [
             [

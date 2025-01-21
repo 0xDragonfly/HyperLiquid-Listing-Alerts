@@ -1,13 +1,13 @@
 {
     "name": "MAXI",
     "maxSupply": "1000000.0",
-    "totalSupply": "999570.54899083",
-    "circulatingSupply": "577807.53505961",
+    "totalSupply": "999570.52215847",
+    "circulatingSupply": "577807.50822725",
     "szDecimals": 2,
     "weiDecimals": 8,
     "midPx": "0.440305",
     "markPx": "0.43965",
-    "prevDayPx": "0.44893",
+    "prevDayPx": "0.44228",
     "genesis": {
         "userBalances": [
             [

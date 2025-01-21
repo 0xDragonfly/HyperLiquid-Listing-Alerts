@@ -1,13 +1,13 @@
 {
     "name": "FATCAT",
     "maxSupply": "1000000.0",
-    "totalSupply": "999300.04409898",
-    "circulatingSupply": "726462.2079501",
+    "totalSupply": "999299.93289916",
+    "circulatingSupply": "726462.09675028",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.304875",
-    "markPx": "0.30442",
-    "prevDayPx": "0.37174",
+    "midPx": "0.30036",
+    "markPx": "0.29991",
+    "prevDayPx": "0.36733",
     "genesis": {
         "userBalances": [
             [

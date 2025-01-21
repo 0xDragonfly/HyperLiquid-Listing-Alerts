@@ -1,13 +1,13 @@
 {
     "name": "PIP",
     "maxSupply": "1000000.0",
-    "totalSupply": "998501.97237642",
-    "circulatingSupply": "891715.6442511",
+    "totalSupply": "998494.15996121",
+    "circulatingSupply": "891707.83183589",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "11.9475",
-    "markPx": "11.965",
-    "prevDayPx": "11.895",
+    "midPx": "15.501",
+    "markPx": "15.478",
+    "prevDayPx": "11.213",
     "genesis": {
         "userBalances": [
             [

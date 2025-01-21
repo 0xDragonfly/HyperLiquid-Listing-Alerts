@@ -1,13 +1,13 @@
 {
     "name": "VAULT",
     "maxSupply": "10000000.0",
-    "totalSupply": "9996882.2636582",
-    "circulatingSupply": "9993084.81323444",
+    "totalSupply": "9996881.14262731",
+    "circulatingSupply": "9993083.69220355",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.24217",
-    "markPx": "0.24181",
-    "prevDayPx": "0.26838",
+    "midPx": "0.239305",
+    "markPx": "0.23895",
+    "prevDayPx": "0.24398",
     "genesis": {
         "userBalances": [
             [

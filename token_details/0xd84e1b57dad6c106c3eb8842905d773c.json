@@ -1,13 +1,13 @@
 {
     "name": "HGOD",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199598.44970823",
-    "circulatingSupply": "642431.77970823",
+    "totalSupply": "1199598.36910759",
+    "circulatingSupply": "642431.69910759",
     "szDecimals": 2,
     "weiDecimals": 8,
     "midPx": "0.319265",
     "markPx": "0.31879",
-    "prevDayPx": "0.32941",
+    "prevDayPx": "0.32261",
     "genesis": {
         "userBalances": [
             [

@@ -1,13 +1,13 @@
 {
     "name": "YEETI",
     "maxSupply": "1000000000.0",
-    "totalSupply": "998777904.73844004",
-    "circulatingSupply": "997861331.93463004",
+    "totalSupply": "998773218.80342996",
+    "circulatingSupply": "997856645.99961996",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00191505",
-    "markPx": "0.0019122",
-    "prevDayPx": "0.002341",
+    "midPx": "0.0019437",
+    "markPx": "0.0019408",
+    "prevDayPx": "0.0021795",
     "genesis": {
         "userBalances": [
             [

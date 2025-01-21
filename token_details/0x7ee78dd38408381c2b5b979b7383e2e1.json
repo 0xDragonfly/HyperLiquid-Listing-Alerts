@@ -1,13 +1,13 @@
 {
     "name": "G",
     "maxSupply": "1000000.0",
-    "totalSupply": "999780.7763885",
-    "circulatingSupply": "999780.7763885",
+    "totalSupply": "999780.7187955",
+    "circulatingSupply": "999780.7187955",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.319525",
-    "markPx": "0.3",
-    "prevDayPx": "0.31098",
+    "midPx": "0.27505",
+    "markPx": "0.22222",
+    "prevDayPx": "0.311",
     "genesis": {
         "userBalances": [
             [

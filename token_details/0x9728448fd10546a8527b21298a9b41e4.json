@@ -1,12 +1,12 @@
 {
     "name": "STACK",
     "maxSupply": "1000000.0",
-    "totalSupply": "999783.22723309",
-    "circulatingSupply": "414476.08723309",
+    "totalSupply": "999783.14323632",
+    "circulatingSupply": "414476.00323632",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.992675",
-    "markPx": "0.99119",
+    "midPx": "0.986755",
+    "markPx": "0.98528",
     "prevDayPx": "0.99119",
     "genesis": {
         "userBalances": [

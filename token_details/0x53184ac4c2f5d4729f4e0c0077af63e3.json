@@ -1,13 +1,13 @@
 {
     "name": "COPE",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199023.76617028",
-    "circulatingSupply": "822503.56626013",
+    "totalSupply": "1199022.16485601",
+    "circulatingSupply": "822501.96494586",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.326465",
-    "markPx": "0.32695",
-    "prevDayPx": "0.38869",
+    "midPx": "0.366735",
+    "markPx": "0.36728",
+    "prevDayPx": "0.42131",
     "genesis": {
         "userBalances": [
             [

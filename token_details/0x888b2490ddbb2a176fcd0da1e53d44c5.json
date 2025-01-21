@@ -1,13 +1,13 @@
 {
     "name": "RETARD",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199187.82814901",
-    "circulatingSupply": "962583.12314901",
+    "totalSupply": "1199186.7114656",
+    "circulatingSupply": "962582.0064656",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.28304",
-    "markPx": "0.28262",
-    "prevDayPx": "0.27278",
+    "midPx": "0.26465",
+    "markPx": "0.26461",
+    "prevDayPx": "0.27761",
     "genesis": {
         "userBalances": [
             [

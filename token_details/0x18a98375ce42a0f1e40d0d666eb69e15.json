@@ -1,13 +1,13 @@
 {
     "name": "HPYH",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199521.73859082",
-    "circulatingSupply": "723533.24859082",
+    "totalSupply": "1199520.40036372",
+    "circulatingSupply": "723531.91036372",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.377685",
-    "markPx": "0.37712",
-    "prevDayPx": "0.55594",
+    "midPx": "0.48967",
+    "markPx": "0.4904",
+    "prevDayPx": "0.50376",
     "genesis": {
         "userBalances": [
             [

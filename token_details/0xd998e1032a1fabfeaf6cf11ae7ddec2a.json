@@ -1,13 +1,13 @@
 {
     "name": "COZY",
     "maxSupply": "1479003.62",
-    "totalSupply": "1477834.87734334",
-    "circulatingSupply": "1232946.41734334",
+    "totalSupply": "1477834.04661685",
+    "circulatingSupply": "1232945.58661685",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.252565",
-    "markPx": "0.25219",
-    "prevDayPx": "0.30156",
+    "midPx": "0.265675",
+    "markPx": "0.26607",
+    "prevDayPx": "0.27412",
     "genesis": {
         "userBalances": [
             [

@@ -1,13 +1,13 @@
 {
     "name": "NFT",
     "maxSupply": "1000000.0",
-    "totalSupply": "999378.44481901",
-    "circulatingSupply": "840984.82481901",
+    "totalSupply": "999378.39495366",
+    "circulatingSupply": "840984.77495366",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.558745",
-    "markPx": "0.55791",
-    "prevDayPx": "0.5731",
+    "midPx": "0.514415",
+    "markPx": "0.51414",
+    "prevDayPx": "0.55791",
     "genesis": {
         "userBalances": [
             [

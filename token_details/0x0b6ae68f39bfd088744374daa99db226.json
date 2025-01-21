@@ -1,13 +1,13 @@
 {
     "name": "BERA",
     "maxSupply": "10126400.0",
-    "totalSupply": "10119315.256901",
-    "circulatingSupply": "10119234.981619",
+    "totalSupply": "10119310.571071",
+    "circulatingSupply": "10119230.295789",
     "szDecimals": 1,
     "weiDecimals": 6,
-    "midPx": "0.0250615",
-    "markPx": "0.025024",
-    "prevDayPx": "0.02495",
+    "midPx": "0.024326",
+    "markPx": "0.024362",
+    "prevDayPx": "0.02323",
     "genesis": {
         "userBalances": [
             [

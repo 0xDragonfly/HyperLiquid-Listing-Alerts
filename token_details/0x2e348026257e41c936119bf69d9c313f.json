@@ -1,13 +1,13 @@
 {
     "name": "WASH",
     "maxSupply": "1039336.14",
-    "totalSupply": "1038447.39010462",
-    "circulatingSupply": "1038447.38106792",
+    "totalSupply": "1038443.0691063",
+    "circulatingSupply": "1038443.0600696",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.90951",
-    "markPx": "0.90815",
-    "prevDayPx": "1.0083",
+    "midPx": "1.06165",
+    "markPx": "1.0601",
+    "prevDayPx": "0.90274",
     "genesis": {
         "userBalances": [
             [

@@ -1,13 +1,13 @@
 {
     "name": "STEEL",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199077.84703162",
-    "circulatingSupply": "903611.66603162",
+    "totalSupply": "1199071.84910207",
+    "circulatingSupply": "903605.66810207",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.144585",
-    "markPx": "0.14438",
-    "prevDayPx": "0.14741",
+    "midPx": "0.193395",
+    "markPx": "0.19368",
+    "prevDayPx": "0.11667",
     "genesis": {
         "userBalances": [
             [

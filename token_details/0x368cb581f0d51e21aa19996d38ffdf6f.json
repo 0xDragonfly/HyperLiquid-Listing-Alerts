@@ -1,13 +1,13 @@
 {
     "name": "TRUMP",
     "maxSupply": "100000000.0",
-    "totalSupply": "99740568.8354014",
-    "circulatingSupply": "99740568.82562269",
+    "totalSupply": "99740546.711445",
+    "circulatingSupply": "99740546.7016663",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.002886",
-    "markPx": "0.003182",
-    "prevDayPx": "0.007033",
+    "midPx": "0.003509",
+    "markPx": "0.002021",
+    "prevDayPx": "0.005",
     "genesis": {
         "userBalances": [
             [

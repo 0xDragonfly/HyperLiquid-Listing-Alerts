@@ -1,13 +1,13 @@
 {
     "name": "LAUNCH",
     "maxSupply": "50626000.00000028",
-    "totalSupply": "50603835.71397735",
-    "circulatingSupply": "50603835.71397735",
+    "totalSupply": "50603753.23878471",
+    "circulatingSupply": "50603753.23878471",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.16204",
-    "markPx": "0.1618",
-    "prevDayPx": "0.17427",
+    "midPx": "0.18248",
+    "markPx": "0.18221",
+    "prevDayPx": "0.16817",
     "genesis": {
         "userBalances": [
             [

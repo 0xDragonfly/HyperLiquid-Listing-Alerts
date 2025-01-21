@@ -1,13 +1,13 @@
 {
     "name": "SHEEP",
     "maxSupply": "1200000.0",
-    "totalSupply": "1198994.45769524",
-    "circulatingSupply": "946841.16769524",
+    "totalSupply": "1198993.14169199",
+    "circulatingSupply": "946839.85169199",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.144105",
-    "markPx": "0.14432",
-    "prevDayPx": "0.16738",
+    "midPx": "0.144965",
+    "markPx": "0.14518",
+    "prevDayPx": "0.15088",
     "genesis": {
         "userBalances": [
             [

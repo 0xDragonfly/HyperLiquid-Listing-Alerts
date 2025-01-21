@@ -1,13 +1,13 @@
 {
     "name": "FARM",
     "maxSupply": "1200000.0",
-    "totalSupply": "1198835.29590195",
-    "circulatingSupply": "1110823.1393008",
+    "totalSupply": "1198827.2523277",
+    "circulatingSupply": "1110815.09572655",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "28.0205",
-    "markPx": "27.979",
-    "prevDayPx": "30.321",
+    "midPx": "32.7135",
+    "markPx": "32.762",
+    "prevDayPx": "25.742",
     "genesis": {
         "userBalances": [
             [

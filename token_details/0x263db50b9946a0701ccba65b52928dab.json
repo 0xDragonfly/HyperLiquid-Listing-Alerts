@@ -1,13 +1,13 @@
 {
     "name": "RICH",
     "maxSupply": "1000000.0",
-    "totalSupply": "998657.88182974",
-    "circulatingSupply": "931032.89182974",
+    "totalSupply": "998657.81412874",
+    "circulatingSupply": "931032.82412874",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.60918",
-    "markPx": "0.60827",
-    "prevDayPx": "0.653",
+    "midPx": "0.519995",
+    "markPx": "0.51922",
+    "prevDayPx": "0.59391",
     "genesis": {
         "userBalances": [
             [

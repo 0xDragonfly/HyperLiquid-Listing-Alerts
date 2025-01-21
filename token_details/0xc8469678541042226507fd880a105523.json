@@ -1,13 +1,13 @@
 {
     "name": "GENESY",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199250.28418013",
-    "circulatingSupply": "1014004.87418013",
+    "totalSupply": "1199245.3081127",
+    "circulatingSupply": "1013999.8981127",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "1.72615",
-    "markPx": "1.7287",
-    "prevDayPx": "1.7005",
+    "midPx": "1.50595",
+    "markPx": "1.5082",
+    "prevDayPx": "1.6565",
     "genesis": {
         "userBalances": [
             [

@@ -1,13 +1,13 @@
 {
     "name": "SYLVI",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199299.39154946",
-    "circulatingSupply": "809378.28953047",
+    "totalSupply": "1199299.35999056",
+    "circulatingSupply": "809378.25797157",
     "szDecimals": 2,
     "weiDecimals": 8,
     "midPx": "0.869115",
     "markPx": "0.86869",
-    "prevDayPx": "1.1345",
+    "prevDayPx": "1.0268",
     "genesis": {
         "userBalances": [
             [

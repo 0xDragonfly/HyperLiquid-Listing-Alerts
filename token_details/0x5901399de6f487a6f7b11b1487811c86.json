@@ -1,12 +1,12 @@
 {
     "name": "NOCEX",
     "maxSupply": "1000000.0",
-    "totalSupply": "999669.80120017",
-    "circulatingSupply": "512894.23120017",
+    "totalSupply": "999669.72722552",
+    "circulatingSupply": "512894.15722552",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "1.2873",
-    "markPx": "1.2854",
+    "midPx": "1.24985",
+    "markPx": "1.248",
     "prevDayPx": "1.2892",
     "genesis": {
         "userBalances": [

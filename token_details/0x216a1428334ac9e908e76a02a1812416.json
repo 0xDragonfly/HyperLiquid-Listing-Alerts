@@ -1,13 +1,13 @@
 {
     "name": "OMNIX",
     "maxSupply": "999500000.0",
-    "totalSupply": "999212801.84315705",
-    "circulatingSupply": "568709047.37447405",
+    "totalSupply": "999212485.77053797",
+    "circulatingSupply": "568708731.30185497",
     "szDecimals": 1,
     "weiDecimals": 6,
-    "midPx": "0.0055214",
-    "markPx": "0.0055132",
-    "prevDayPx": "0.0062897",
+    "midPx": "0.0054232",
+    "markPx": "0.0054151",
+    "prevDayPx": "0.0054151",
     "genesis": {
         "userBalances": [
             [

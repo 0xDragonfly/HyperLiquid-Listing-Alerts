@@ -1,13 +1,13 @@
 {
     "name": "EARTH",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199545.80596536",
-    "circulatingSupply": "567985.70596536",
+    "totalSupply": "1199545.35700126",
+    "circulatingSupply": "567985.25700126",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.231795",
-    "markPx": "0.23145",
-    "prevDayPx": "0.23915",
+    "midPx": "0.224995",
+    "markPx": "0.22466",
+    "prevDayPx": "0.31",
     "genesis": {
         "userBalances": [
             [

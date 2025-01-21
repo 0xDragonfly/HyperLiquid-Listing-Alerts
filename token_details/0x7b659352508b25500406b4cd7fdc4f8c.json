@@ -1,13 +1,13 @@
 {
     "name": "AUTIST",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199384.38160945",
-    "circulatingSupply": "564889.66160945",
+    "totalSupply": "1199383.10550408",
+    "circulatingSupply": "564888.38550408",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "1.38875",
-    "markPx": "1.3908",
-    "prevDayPx": "1.5985",
+    "midPx": "1.26705",
+    "markPx": "1.2689",
+    "prevDayPx": "1.5381",
     "genesis": {
         "userBalances": [
             [

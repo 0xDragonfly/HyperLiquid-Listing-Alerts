@@ -1,13 +1,13 @@
 {
     "name": "ARI",
     "maxSupply": "100000000.0",
-    "totalSupply": "97036319.5718769",
-    "circulatingSupply": "97036319.5718769",
+    "totalSupply": "97036310.55419916",
+    "circulatingSupply": "97036310.55419916",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.001751",
-    "markPx": "0.001751",
-    "prevDayPx": "0.001731",
+    "midPx": "0.001756",
+    "markPx": "0.001754",
+    "prevDayPx": "0.001789",
     "genesis": {
         "userBalances": [
             [

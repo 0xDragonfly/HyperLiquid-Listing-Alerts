@@ -1,13 +1,13 @@
 {
     "name": "PEPE",
     "maxSupply": "100000000.0",
-    "totalSupply": "99729573.46471331",
-    "circulatingSupply": "99729573.46471331",
+    "totalSupply": "99729569.57066061",
+    "circulatingSupply": "99729569.57066061",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.002984",
-    "markPx": "0.001237",
-    "prevDayPx": "0.002078",
+    "midPx": "0.002921",
+    "markPx": "0.004599",
+    "prevDayPx": "0.001801",
     "genesis": {
         "userBalances": [
             [

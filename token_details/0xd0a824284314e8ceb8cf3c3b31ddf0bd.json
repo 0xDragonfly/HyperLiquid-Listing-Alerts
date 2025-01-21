@@ -1,13 +1,13 @@
 {
     "name": "RANK",
     "maxSupply": "1000000.0",
-    "totalSupply": "999798.78494118",
-    "circulatingSupply": "485077.21494118",
+    "totalSupply": "999798.76212757",
+    "circulatingSupply": "485077.19212757",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.52986",
-    "markPx": "0.52907",
-    "prevDayPx": "0.54839",
+    "midPx": "0.52828",
+    "markPx": "0.52749",
+    "prevDayPx": "0.54349",
     "genesis": {
         "userBalances": [
             [

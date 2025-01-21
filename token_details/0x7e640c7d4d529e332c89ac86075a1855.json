@@ -1,13 +1,13 @@
 {
     "name": "VIZN",
     "maxSupply": "4000000.01",
-    "totalSupply": "3999632.73811497",
-    "circulatingSupply": "3999632.73811497",
+    "totalSupply": "3999632.37458241",
+    "circulatingSupply": "3999632.37458241",
     "szDecimals": 2,
     "weiDecimals": 8,
     "midPx": "0.17371",
     "markPx": "0.17345",
-    "prevDayPx": "0.17397",
+    "prevDayPx": "0.17449",
     "genesis": {
         "userBalances": [
             [

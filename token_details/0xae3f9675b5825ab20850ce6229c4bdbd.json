@@ -1,13 +1,13 @@
 {
     "name": "TIME",
     "maxSupply": "1750000000.0",
-    "totalSupply": "1750000000.0",
-    "circulatingSupply": "1750000000.0",
+    "totalSupply": "1749962556.08018136",
+    "circulatingSupply": "1749962555.4416852",
     "szDecimals": 1,
     "weiDecimals": 8,
-    "midPx": null,
-    "markPx": "1.0",
-    "prevDayPx": "0.0",
+    "midPx": "0.0114125",
+    "markPx": "0.011294",
+    "prevDayPx": "0.014226",
     "genesis": {
         "userBalances": [
             [
@@ -38760,7 +38760,16 @@
     "deployer": "0xe91a790292870ef71f70bf8a98a01e11deef3a74",
     "deployGas": "6102.843611",
     "deployTime": "2024-08-28T10:36:22.349",
-    "seededUsdc": "0.0",
-    "nonCirculatingUserBalances": [],
+    "seededUsdc": "49996.30324",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "0.62849639"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "0.01"
+        ]
+    ],
     "futureEmissions": "0.0"
 }

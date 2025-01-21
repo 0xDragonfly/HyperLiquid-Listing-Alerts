@@ -1,13 +1,13 @@
 {
     "name": "NMTD",
     "maxSupply": "1000000.0",
-    "totalSupply": "999642.31773097",
-    "circulatingSupply": "505832.96773097",
+    "totalSupply": "999642.31529031",
+    "circulatingSupply": "505832.96529031",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.433785",
-    "markPx": "0.43314",
-    "prevDayPx": "0.43965",
+    "midPx": "0.431205",
+    "markPx": "0.43056",
+    "prevDayPx": "0.43443",
     "genesis": {
         "userBalances": [
             [

@@ -1,13 +1,13 @@
 {
     "name": "CHEF",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199697.39288023",
-    "circulatingSupply": "534339.28413299",
+    "totalSupply": "1199696.90542092",
+    "circulatingSupply": "534338.79667368",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.365465",
-    "markPx": "0.36492",
-    "prevDayPx": "0.39435",
+    "midPx": "0.379915",
+    "markPx": "0.38048",
+    "prevDayPx": "0.3682",
     "genesis": {
         "userBalances": [
             [

@@ -1,12 +1,12 @@
 {
     "name": "WOW",
     "maxSupply": "100000000.0",
-    "totalSupply": "99958291.22631",
-    "circulatingSupply": "99958284.43392",
+    "totalSupply": "99958236.73755001",
+    "circulatingSupply": "99958229.94516",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.0221935",
-    "markPx": "0.022193",
+    "midPx": "0.0221585",
+    "markPx": "0.022158",
     "prevDayPx": "0.022201",
     "genesis": {
         "userBalances": [

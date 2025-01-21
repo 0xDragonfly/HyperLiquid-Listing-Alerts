@@ -1,13 +1,13 @@
 {
     "name": "CATBAL",
     "maxSupply": "1000000.0",
-    "totalSupply": "998676.12490367",
-    "circulatingSupply": "980420.93651545",
+    "totalSupply": "998673.23466466",
+    "circulatingSupply": "980418.04627644",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "13.631",
-    "markPx": "13.611",
-    "prevDayPx": "12.754",
+    "midPx": "13.3515",
+    "markPx": "13.371",
+    "prevDayPx": "12.944",
     "genesis": {
         "userBalances": [
             [

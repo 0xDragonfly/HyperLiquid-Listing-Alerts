@@ -1,13 +1,13 @@
 {
     "name": "POINTS",
     "maxSupply": "100002500.0",
-    "totalSupply": "99558817.39590999",
-    "circulatingSupply": "99558816.78368001",
+    "totalSupply": "99558604.45581",
+    "circulatingSupply": "99558603.84357999",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.0180135",
-    "markPx": "0.017987",
-    "prevDayPx": "0.01903",
+    "midPx": "0.0165285",
+    "markPx": "0.016553",
+    "prevDayPx": "0.018694",
     "genesis": {
         "userBalances": [
             [

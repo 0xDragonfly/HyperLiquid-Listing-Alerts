@@ -1,13 +1,13 @@
 {
     "name": "SOLV",
     "maxSupply": "420000000.0",
-    "totalSupply": "419994074.16846383",
-    "circulatingSupply": "419994074.16285539",
+    "totalSupply": "419993978.87070483",
+    "circulatingSupply": "419993978.86509633",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.073469",
-    "markPx": "0.073579",
-    "prevDayPx": "0.084701",
+    "midPx": "0.081699",
+    "markPx": "0.08171",
+    "prevDayPx": "0.078121",
     "genesis": {
         "userBalances": [
             [

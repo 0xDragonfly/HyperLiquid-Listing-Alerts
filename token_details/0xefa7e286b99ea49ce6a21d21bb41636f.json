@@ -1,12 +1,12 @@
 {
     "name": "PUMP",
     "maxSupply": "1050000000.0",
-    "totalSupply": "1047328089.96045995",
-    "circulatingSupply": "1047328089.05148995",
+    "totalSupply": "1047327986.94026995",
+    "circulatingSupply": "1047327986.03129995",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00032621",
-    "markPx": "0.00032572",
+    "midPx": "0.00031094",
+    "markPx": "0.00031048",
     "prevDayPx": "0.00032768",
     "genesis": {
         "userBalances": [

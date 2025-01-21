@@ -1,12 +1,12 @@
 {
     "name": "JEET",
     "maxSupply": "100074000.0",
-    "totalSupply": "94223085.39092",
-    "circulatingSupply": "82811490.8345",
+    "totalSupply": "94223082.12664001",
+    "circulatingSupply": "82811487.57021999",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.0018505",
-    "markPx": "0.00176",
+    "midPx": "0.00181965",
+    "markPx": "0.0016984",
     "prevDayPx": "0.00176",
     "genesis": {
         "userBalances": [

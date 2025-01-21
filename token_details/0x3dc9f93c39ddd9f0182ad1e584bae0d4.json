@@ -1,13 +1,13 @@
 {
     "name": "FUN",
     "maxSupply": "10777755.366665",
-    "totalSupply": "10722489.51981",
-    "circulatingSupply": "10649656.97847",
+    "totalSupply": "10722488.415415",
+    "circulatingSupply": "10649655.874075",
     "szDecimals": 1,
     "weiDecimals": 6,
     "midPx": "0.144465",
-    "markPx": "0.14425",
-    "prevDayPx": "0.14554",
+    "markPx": "0.14468",
+    "prevDayPx": "0.14468",
     "genesis": {
         "userBalances": [
             [

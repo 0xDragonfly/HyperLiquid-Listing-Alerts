@@ -1,13 +1,13 @@
 {
     "name": "VEGAS",
     "maxSupply": "10000000.00002",
-    "totalSupply": "9981272.93874493",
-    "circulatingSupply": "9954646.39696558",
+    "totalSupply": "9981241.29298261",
+    "circulatingSupply": "9954614.75120326",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.11452",
-    "markPx": "0.11435",
-    "prevDayPx": "0.13496",
+    "midPx": "0.131605",
+    "markPx": "0.1318",
+    "prevDayPx": "0.11401",
     "genesis": {
         "userBalances": [
             [

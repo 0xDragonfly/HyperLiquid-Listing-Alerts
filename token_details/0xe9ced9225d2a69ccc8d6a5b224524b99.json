@@ -1,13 +1,13 @@
 {
     "name": "MANLET",
     "maxSupply": "10000000.0",
-    "totalSupply": "9777326.24521",
-    "circulatingSupply": "9777326.08461",
+    "totalSupply": "9777325.8115",
+    "circulatingSupply": "9777325.6509",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.028186",
-    "markPx": "0.028144",
-    "prevDayPx": "0.028651",
+    "midPx": "0.027523",
+    "markPx": "0.027482",
+    "prevDayPx": "0.028312",
     "genesis": {
         "userBalances": [
             [

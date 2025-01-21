@@ -1,13 +1,13 @@
 {
     "name": "HYENA",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199410.38081525",
-    "circulatingSupply": "1040820.18065122",
+    "totalSupply": "1199401.95719933",
+    "circulatingSupply": "1040811.7570353",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "1.0115",
-    "markPx": "1.013",
-    "prevDayPx": "0.7904",
+    "midPx": "0.738975",
+    "markPx": "0.74008",
+    "prevDayPx": "0.758",
     "genesis": {
         "userBalances": [
             [

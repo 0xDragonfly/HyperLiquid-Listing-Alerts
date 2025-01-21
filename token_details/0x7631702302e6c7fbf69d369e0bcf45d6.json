@@ -1,13 +1,13 @@
 {
     "name": "CAT",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199258.2667034",
-    "circulatingSupply": "1159224.3067034",
+    "totalSupply": "1199257.9165231",
+    "circulatingSupply": "1159223.9565231",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.806505",
-    "markPx": "0.944",
-    "prevDayPx": "0.8",
+    "midPx": "0.85906",
+    "markPx": "0.77817",
+    "prevDayPx": "0.94447",
     "genesis": {
         "userBalances": [
             [

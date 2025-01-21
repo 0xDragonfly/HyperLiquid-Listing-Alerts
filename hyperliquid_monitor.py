@@ -26,7 +26,6 @@ class HyperLiquidMonitor:
         # Create token details directory if it doesn't exist
         os.makedirs(self.token_details_dir, exist_ok=True)
         self.known_pairs: Set[str] = self.load_cache()
-        self.pairs_with_liquidity: Set[str] = set()
         
     def load_cache(self) -> Set[str]:
         """Load known pairs from cache file"""
@@ -63,7 +62,7 @@ class HyperLiquidMonitor:
         }
         
         try:
-            time.sleep(1)
+            time.sleep(0.5)
             response = requests.post(self.base_url, json=payload)
             response.raise_for_status()
             return response.json()
@@ -90,17 +89,21 @@ class HyperLiquidMonitor:
         current_pairs = set()
         
         # Process market data
-        for asset in tqdm(market_data.get('tokens', []), desc="Processing assets"):
+        for asset in market_data.get('tokens', []):
             pair_name = asset.get('name')
             token_id = asset.get('tokenId')
-            current_pairs.add(pair_name)
             
-            # If this is a new pair, fetch and store token details
+            # Only process and add to current_pairs if we can get token details
             if pair_name not in self.known_pairs and token_id:
                 token_details = self.fetch_token_details(token_id)
                 if token_details:
                     self.save_token_details(token_id, token_details)
                     self.notify_new_pair(pair_name, token_details)
+                    current_pairs.add(pair_name)  # Only add if we got token details
+            else:
+                # Add existing known pairs to current_pairs
+                if pair_name in self.known_pairs:
+                    current_pairs.add(pair_name)
         
         # Update stored state
         self.known_pairs = current_pairs
@@ -233,7 +236,7 @@ def main():
     while True:
         try:
             monitor.check_for_updates()
-            time.sleep(0.5)  # Check every minute
+            time.sleep(0.2)  # Check every minute
         except KeyboardInterrupt:
             print("\nMonitor stopped by user")
             monitor.send_system_alert("Monitor stopped by user")

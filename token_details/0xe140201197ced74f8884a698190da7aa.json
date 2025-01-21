@@ -1,13 +1,13 @@
 {
     "name": "SCHIZO",
     "maxSupply": "1000000.0",
-    "totalSupply": "997754.72855506",
-    "circulatingSupply": "997754.72855506",
+    "totalSupply": "997752.8602868",
+    "circulatingSupply": "997752.8602868",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "3.5506",
-    "markPx": "3.5453",
-    "prevDayPx": "3.62",
+    "midPx": "3.37505",
+    "markPx": "3.37",
+    "prevDayPx": "3.5347",
     "genesis": {
         "userBalances": [
             [

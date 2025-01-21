@@ -1,13 +1,13 @@
 {
     "name": "LIQUID",
     "maxSupply": "1200000.0",
-    "totalSupply": "1199280.36111115",
-    "circulatingSupply": "560339.41017225",
+    "totalSupply": "1199276.07123072",
+    "circulatingSupply": "560335.12029182",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.424525",
-    "markPx": "0.42516",
-    "prevDayPx": "1.0384",
+    "midPx": "0.52165",
+    "markPx": "0.52087",
+    "prevDayPx": "0.39933",
     "genesis": {
         "userBalances": [
             [

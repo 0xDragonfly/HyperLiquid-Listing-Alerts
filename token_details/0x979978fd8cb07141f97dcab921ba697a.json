@@ -1,12 +1,12 @@
 {
     "name": "BAGS",
     "maxSupply": "777777333.10000002",
-    "totalSupply": "733559536.78069997",
-    "circulatingSupply": "733500615.13038003",
+    "totalSupply": "733559513.47695994",
+    "circulatingSupply": "733500591.82664001",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00064339",
-    "markPx": "0.00064243",
+    "midPx": "0.00061145",
+    "markPx": "0.00061054",
     "prevDayPx": "0.00064629",
     "genesis": {
         "userBalances": [

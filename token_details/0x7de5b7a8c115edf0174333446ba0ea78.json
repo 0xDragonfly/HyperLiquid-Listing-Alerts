@@ -1,13 +1,13 @@
 {
     "name": "FUCKY",
     "maxSupply": "140000000.0",
-    "totalSupply": "138378816.32046309",
-    "circulatingSupply": "138378816.32046309",
+    "totalSupply": "138378800.28524336",
+    "circulatingSupply": "138378800.28524336",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.001233",
-    "markPx": "0.001231",
-    "prevDayPx": "0.001291",
+    "midPx": "0.001213",
+    "markPx": "0.001211",
+    "prevDayPx": "0.001307",
     "genesis": {
         "userBalances": [
             [

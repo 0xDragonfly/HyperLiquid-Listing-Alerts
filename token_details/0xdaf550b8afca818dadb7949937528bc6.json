@@ -1,13 +1,13 @@
 {
     "name": "HOLD",
     "maxSupply": "1200000.0",
-    "totalSupply": "1198981.19971819",
-    "circulatingSupply": "996585.22971819",
+    "totalSupply": "1198980.01017473",
+    "circulatingSupply": "996584.04017473",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.136725",
-    "markPx": "0.13652",
-    "prevDayPx": "0.14147",
+    "midPx": "0.14724",
+    "markPx": "0.14746",
+    "prevDayPx": "0.1501",
     "genesis": {
         "userBalances": [
             [

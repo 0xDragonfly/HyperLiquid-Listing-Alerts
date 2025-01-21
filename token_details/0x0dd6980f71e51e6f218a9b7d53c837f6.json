@@ -1,13 +1,13 @@
 {
     "name": "LQNA",
     "maxSupply": "1200000.0",
-    "totalSupply": "1198820.59148718",
-    "circulatingSupply": "1067801.84148718",
+    "totalSupply": "1198818.00080471",
+    "circulatingSupply": "1067799.25080471",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "5.97835",
-    "markPx": "5.9873",
-    "prevDayPx": "5.8111",
+    "midPx": "5.85465",
+    "markPx": "5.8459",
+    "prevDayPx": "5.5234",
     "genesis": {
         "userBalances": [
             [

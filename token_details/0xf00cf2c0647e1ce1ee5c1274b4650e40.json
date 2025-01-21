@@ -1,13 +1,13 @@
 {
     "name": "CINDY",
     "maxSupply": "1000000.0",
-    "totalSupply": "999571.58489479",
-    "circulatingSupply": "532698.45489479",
+    "totalSupply": "999568.83055098",
+    "circulatingSupply": "532695.70055098",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.512735",
-    "markPx": "0.5135",
-    "prevDayPx": "0.5135",
+    "midPx": "0.584805",
+    "markPx": "0.58393",
+    "prevDayPx": "0.49839",
     "genesis": {
         "userBalances": [
             [

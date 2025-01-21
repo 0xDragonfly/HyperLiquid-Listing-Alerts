@@ -1,13 +1,13 @@
 {
     "name": "SPH",
     "maxSupply": "1000000.0",
-    "totalSupply": "999261.08533449",
-    "circulatingSupply": "617225.43533449",
+    "totalSupply": "999252.87918615",
+    "circulatingSupply": "617217.22918615",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "6.1596",
-    "markPx": "6.1504",
-    "prevDayPx": "5.6909",
+    "midPx": "9.3046",
+    "markPx": "9.3185",
+    "prevDayPx": "6.0956",
     "genesis": {
         "userBalances": [
             [

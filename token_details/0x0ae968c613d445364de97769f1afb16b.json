@@ -1,13 +1,13 @@
 {
     "name": "RAGE",
     "maxSupply": "100000969.0",
-    "totalSupply": "99960831.67470336",
-    "circulatingSupply": "36809444.33937271",
+    "totalSupply": "99960815.80387466",
+    "circulatingSupply": "36809428.46854401",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.077238",
-    "markPx": "0.077123",
-    "prevDayPx": "0.079706",
+    "midPx": "0.076604",
+    "markPx": "0.076547",
+    "prevDayPx": "0.077819",
     "genesis": {
         "userBalances": [
             [

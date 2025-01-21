@@ -1,13 +1,13 @@
 {
     "name": "SHOE",
     "maxSupply": "1000000.0",
-    "totalSupply": "999671.92900454",
-    "circulatingSupply": "431018.09900454",
+    "totalSupply": "999671.87289547",
+    "circulatingSupply": "431018.04289547",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.378815",
-    "markPx": "0.37887",
-    "prevDayPx": "0.38279",
+    "midPx": "0.37656",
+    "markPx": "0.376",
+    "prevDayPx": "0.38118",
     "genesis": {
         "userBalances": [
             [

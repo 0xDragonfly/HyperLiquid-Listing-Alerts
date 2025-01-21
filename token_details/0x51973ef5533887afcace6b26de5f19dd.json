@@ -1,13 +1,13 @@
 {
     "name": "RISE",
     "maxSupply": "60000000.0",
-    "totalSupply": "59801869.56634866",
-    "circulatingSupply": "58034087.22903435",
+    "totalSupply": "59801610.556972",
+    "circulatingSupply": "58033828.21965769",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.002904",
-    "markPx": "0.002902",
-    "prevDayPx": "0.003909",
+    "midPx": "0.002243",
+    "markPx": "0.002247",
+    "prevDayPx": "0.002897",
     "genesis": {
         "userBalances": [
             [

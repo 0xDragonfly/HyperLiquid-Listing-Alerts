@@ -1,13 +1,13 @@
 {
     "name": "MUNCH",
     "maxSupply": "2700000000.0",
-    "totalSupply": "2698082108.77463007",
-    "circulatingSupply": "2697746128.15802002",
+    "totalSupply": "2698077904.10446978",
+    "circulatingSupply": "2697741923.4878602",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00011097",
-    "markPx": "0.00011114",
-    "prevDayPx": "0.0001152",
+    "midPx": "0.00008838",
+    "markPx": "0.00008851",
+    "prevDayPx": "0.00011147",
     "genesis": {
         "userBalances": [
             [

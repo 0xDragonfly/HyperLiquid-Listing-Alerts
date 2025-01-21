@@ -1,13 +1,13 @@
 {
     "name": "PILL",
     "maxSupply": "100000000.0",
-    "totalSupply": "97589669.38289492",
-    "circulatingSupply": "89414391.10944688",
+    "totalSupply": "97589658.57407428",
+    "circulatingSupply": "89414380.30062623",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.003777",
-    "markPx": "0.003776",
-    "prevDayPx": "0.004126",
+    "midPx": "0.003645",
+    "markPx": "0.00364",
+    "prevDayPx": "0.003816",
     "genesis": {
         "userBalances": [
             [

@@ -1,13 +1,13 @@
 {
     "name": "GUP",
     "maxSupply": "1000000.0",
-    "totalSupply": "968287.48082023",
-    "circulatingSupply": "868287.48082023",
+    "totalSupply": "968286.22911075",
+    "circulatingSupply": "868286.22911075",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.146545",
-    "markPx": "0.14633",
-    "prevDayPx": "0.16527",
+    "midPx": "0.150515",
+    "markPx": "0.15074",
+    "prevDayPx": "0.14332",
     "genesis": {
         "userBalances": [
             [

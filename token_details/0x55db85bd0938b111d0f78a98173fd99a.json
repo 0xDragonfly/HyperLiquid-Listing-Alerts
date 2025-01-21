@@ -1,13 +1,13 @@
 {
     "name": "FLY",
     "maxSupply": "1200000000.0",
-    "totalSupply": "1199828991.12735367",
-    "circulatingSupply": "1097290020.44735384",
+    "totalSupply": "1199767823.86826229",
+    "circulatingSupply": "1097228853.18826222",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.005034",
-    "markPx": "0.005027",
-    "prevDayPx": "0.003297",
+    "midPx": "0.008999",
+    "markPx": "0.009013",
+    "prevDayPx": "0.004161",
     "genesis": {
         "userBalances": [
             [

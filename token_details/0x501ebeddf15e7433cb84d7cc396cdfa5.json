@@ -1,12 +1,12 @@
 {
     "name": "HPEPE",
     "maxSupply": "100000000.0",
-    "totalSupply": "98427904.11213",
-    "circulatingSupply": "98427903.31178001",
+    "totalSupply": "98427796.61888",
+    "circulatingSupply": "98427795.81852999",
     "szDecimals": 0,
     "weiDecimals": 5,
-    "midPx": "0.00431785",
-    "markPx": "0.0043146",
+    "midPx": "0.00458705",
+    "markPx": "0.0045939",
     "prevDayPx": "0.0043275",
     "genesis": {
         "userBalances": [

@@ -1,13 +1,13 @@
 {
     "name": "BEATS",
     "maxSupply": "1200000000.0",
-    "totalSupply": "1199596324.47456241",
-    "circulatingSupply": "1122113689.43011618",
+    "totalSupply": "1199591741.01509142",
+    "circulatingSupply": "1122109105.97064519",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.004608",
-    "markPx": "0.004601",
-    "prevDayPx": "0.004503",
+    "midPx": "0.004936",
+    "markPx": "0.004929",
+    "prevDayPx": "0.003885",
     "genesis": {
         "userBalances": [
             [

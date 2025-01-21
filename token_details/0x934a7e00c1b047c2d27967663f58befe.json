@@ -1,13 +1,13 @@
 {
     "name": "DEPIN",
     "maxSupply": "1200000000.0",
-    "totalSupply": "1199802246.50373387",
-    "circulatingSupply": "1030405431.90373373",
+    "totalSupply": "1199801402.9168005",
+    "circulatingSupply": "1030404588.31680048",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.013499",
-    "markPx": "0.013479",
-    "prevDayPx": "0.013399",
+    "midPx": "0.014769",
+    "markPx": "0.014747",
+    "prevDayPx": "0.013806",
     "genesis": {
         "userBalances": [
             [

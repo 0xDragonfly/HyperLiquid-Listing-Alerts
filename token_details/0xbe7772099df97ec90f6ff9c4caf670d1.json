@@ -1,12 +1,12 @@
 {
     "name": "MOG",
     "maxSupply": "1000000000.0",
-    "totalSupply": "959716959.37747824",
-    "circulatingSupply": "880530090.45716965",
+    "totalSupply": "959716863.42929411",
+    "circulatingSupply": "880529994.5089854",
     "szDecimals": 2,
     "weiDecimals": 8,
-    "midPx": "0.000247",
-    "markPx": "0.000245",
+    "midPx": "0.000205",
+    "markPx": "0.000191",
     "prevDayPx": "0.000245",
     "genesis": {
         "userBalances": [

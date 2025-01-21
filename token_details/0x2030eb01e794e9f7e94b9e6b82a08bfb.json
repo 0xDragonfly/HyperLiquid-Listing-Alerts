@@ -1,13 +1,13 @@
 {
     "name": "BOZO",
     "maxSupply": "36040000.0",
-    "totalSupply": "36017433.1092193",
-    "circulatingSupply": "36012182.963152",
+    "totalSupply": "36017432.0803383",
+    "circulatingSupply": "36012181.934271",
     "szDecimals": 2,
     "weiDecimals": 7,
-    "midPx": "0.024249",
-    "markPx": "0.024213",
-    "prevDayPx": "0.024286",
+    "midPx": "0.022232",
+    "markPx": "0.022199",
+    "prevDayPx": "0.024213",
     "genesis": {
         "userBalances": [
             [
