@@ -1,0 +1,48 @@
+{
+    "name": "MOG",
+    "maxSupply": "1000000000.0",
+    "totalSupply": "959716959.37747824",
+    "circulatingSupply": "880530090.45716965",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.000247",
+    "markPx": "0.000245",
+    "prevDayPx": "0.000245",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xbd5a839d9cfbc3f439249fc0e0bea6576cfa8c7a",
+                "50000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "450000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                9,
+                "250000000.0"
+            ],
+            [
+                45,
+                "250000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xbd5a839d9cfbc3f439249fc0e0bea6576cfa8c7a",
+    "deployGas": "17683.839922",
+    "deployTime": "2024-07-24T01:38:52.412",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "50000000.0"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "29186868.92030868"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

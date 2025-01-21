@@ -1,0 +1,36 @@
+{
+    "name": "RISE",
+    "maxSupply": "60000000.0",
+    "totalSupply": "59801869.56634866",
+    "circulatingSupply": "58034087.22903435",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.002904",
+    "markPx": "0.002902",
+    "prevDayPx": "0.003909",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "30000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                56,
+                "30000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x3b7d601e09c85ab0b703f6cd73ff7f7743e8c963",
+    "deployGas": "2462.607294",
+    "deployTime": "2024-09-20T08:31:28.011",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x000000000000000000000000000000000000dead",
+            "1767782.33731431"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

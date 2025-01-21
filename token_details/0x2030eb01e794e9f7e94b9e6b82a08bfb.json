@@ -1,0 +1,44 @@
+{
+    "name": "BOZO",
+    "maxSupply": "36040000.0",
+    "totalSupply": "36017433.1092193",
+    "circulatingSupply": "36012182.963152",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": "0.024249",
+    "markPx": "0.024213",
+    "prevDayPx": "0.024286",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x7f0f055968cbcf0c184b64aa0a3f91c0d6bc2749",
+                "40000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "35600000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                14,
+                "200000.0"
+            ],
+            [
+                76,
+                "200000.0"
+            ]
+        ]
+    },
+    "deployer": "0x716008a4371137638f196eb2fefaaa960c05d47c",
+    "deployGas": "392.920326",
+    "deployTime": "2024-10-11T10:36:45.713",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "5250.1460673"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

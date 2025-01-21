@@ -1,0 +1,40 @@
+{
+    "name": "POINTS",
+    "maxSupply": "100002500.0",
+    "totalSupply": "99558817.39590999",
+    "circulatingSupply": "99558816.78368001",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.0180135",
+    "markPx": "0.017987",
+    "prevDayPx": "0.01903",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "20002500.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "40000000.0"
+            ],
+            [
+                2,
+                "40000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x17a4ce9320bec0ac79420f0af19848044a469d8d",
+    "deployGas": "0.0",
+    "deployTime": "2024-05-29T11:27:44.235",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "0.61223"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

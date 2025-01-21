@@ -1,0 +1,39 @@
+{
+    "name": "HBOOST",
+    "maxSupply": "1000000000.0",
+    "totalSupply": "986482484.93060994",
+    "circulatingSupply": "896479474.66150999",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.0001924",
+    "markPx": "0.00019269",
+    "prevDayPx": "0.0002205",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x691cf5e7448cafdf338ad1524ebfab5a7af1f179",
+                "700000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "300000000.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x691cf5e7448cafdf338ad1524ebfab5a7af1f179",
+    "deployGas": "8194.375056",
+    "deployTime": "2024-06-27T05:34:21.850",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "3010.2691"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "90000000.0"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "SOLV",
+    "maxSupply": "420000000.0",
+    "totalSupply": "419994074.16846383",
+    "circulatingSupply": "419994074.16285539",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.073469",
+    "markPx": "0.073579",
+    "prevDayPx": "0.084701",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xcada145bb9d2be13a8783b8b3d58700c79c966e5",
+                "415200000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "4800000.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x21d1795fca94771cf68a737c4acb62b9f37157dc",
+    "deployGas": "128345.67155",
+    "deployTime": "2024-12-06T19:41:01.226",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "0.00560848"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "BERA",
+    "maxSupply": "10126400.0",
+    "totalSupply": "10119315.256901",
+    "circulatingSupply": "10119234.981619",
+    "szDecimals": 1,
+    "weiDecimals": 6,
+    "midPx": "0.0250615",
+    "markPx": "0.025024",
+    "prevDayPx": "0.02495",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "5063200.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                61,
+                "2531600.0"
+            ],
+            [
+                78,
+                "2531600.0"
+            ]
+        ]
+    },
+    "deployer": "0x8b170c5e9b86864111a6b5faf1f2693ad03a5416",
+    "deployGas": "5291.931718",
+    "deployTime": "2024-08-29T17:42:16.581",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "80.160886"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "0.114396"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

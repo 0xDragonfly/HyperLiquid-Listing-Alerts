@@ -1,0 +1,35 @@
+{
+    "name": "SUCKY",
+    "maxSupply": "807500000.0",
+    "totalSupply": "806758741.28434002",
+    "circulatingSupply": "806758741.28434002",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00041798",
+    "markPx": "0.00041736",
+    "prevDayPx": "0.00042239",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xfacb7404c1fad06444bda161d1304e4b7aa14e77",
+                "500000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "800000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                16,
+                "7000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xfacb7404c1fad06444bda161d1304e4b7aa14e77",
+    "deployGas": "14491.547736",
+    "deployTime": "2024-06-15T16:29:39.653",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

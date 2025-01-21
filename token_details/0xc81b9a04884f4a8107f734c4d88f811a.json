@@ -1,0 +1,44 @@
+{
+    "name": "WOW",
+    "maxSupply": "100000000.0",
+    "totalSupply": "99958291.22631",
+    "circulatingSupply": "99958284.43392",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.0221935",
+    "markPx": "0.022193",
+    "prevDayPx": "0.022201",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xfb4fa056d1306b27a3da359c9400ee50961f7519",
+                "10000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "70000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                9,
+                "10000000.0"
+            ],
+            [
+                150,
+                "10000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xfb4fa056d1306b27a3da359c9400ee50961f7519",
+    "deployGas": "1677.838771",
+    "deployTime": "2024-09-22T02:51:46.948",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x000000000000000000000000000000000000dead",
+            "6.79239"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

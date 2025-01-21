@@ -1,0 +1,44 @@
+{
+    "name": "FUN",
+    "maxSupply": "10777755.366665",
+    "totalSupply": "10722489.51981",
+    "circulatingSupply": "10649656.97847",
+    "szDecimals": 1,
+    "weiDecimals": 6,
+    "midPx": "0.144465",
+    "markPx": "0.14425",
+    "prevDayPx": "0.14554",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x763822a8ddfb49313142583ed419a5bdd844d133",
+                "3233333.333333"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "3772200.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "1077777.777777"
+            ],
+            [
+                17,
+                "2694444.255555"
+            ]
+        ]
+    },
+    "deployer": "0xf517639a8872e756ac98d3c65507d2ebc25cc032",
+    "deployGas": "13564.703367",
+    "deployTime": "2024-06-14T13:45:00.536",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "72832.54134"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

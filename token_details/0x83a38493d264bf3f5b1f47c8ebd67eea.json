@@ -1,0 +1,44 @@
+{
+    "name": "STRICT",
+    "maxSupply": "1000000000.0",
+    "totalSupply": "999696386.4612",
+    "circulatingSupply": "999597137.41949999",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00026989",
+    "markPx": "0.00026949",
+    "prevDayPx": "0.00028104",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x98dd936df0b0d2ec8db08738ac473bbdf6f17018",
+                "50000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "850000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                2,
+                "50000000.0"
+            ],
+            [
+                128,
+                "50000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x98dd936df0b0d2ec8db08738ac473bbdf6f17018",
+    "deployGas": "13371.147034",
+    "deployTime": "2024-11-07T19:51:43.253",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "99249.0417"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

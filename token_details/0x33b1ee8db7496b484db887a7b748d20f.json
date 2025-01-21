@@ -1,0 +1,48 @@
+{
+    "name": "HODL",
+    "maxSupply": "100000000.0",
+    "totalSupply": "99608895.19139192",
+    "circulatingSupply": "96483325.96686344",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.006276",
+    "markPx": "0.006267",
+    "prevDayPx": "0.0064",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xa3341456ad700d9d553c83739cc5775582989a93",
+                "3000000.0"
+            ],
+            [
+                "0xb0aa36bf209358a423d9ecee67194e218c0c639b",
+                "7000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "89000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "1000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xb0aa36bf209358a423d9ecee67194e218c0c639b",
+    "deployGas": "9615.863361",
+    "deployTime": "2024-07-06T07:16:03.542",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "463.26829773"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "3125105.95623076"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

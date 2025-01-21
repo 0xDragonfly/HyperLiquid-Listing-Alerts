@@ -1,0 +1,48 @@
+{
+    "name": "ILIENS",
+    "maxSupply": "694200000.0",
+    "totalSupply": "692426809.84886003",
+    "circulatingSupply": "692426808.84886003",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00024212",
+    "markPx": "0.00024176",
+    "prevDayPx": "0.00023675",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x942f00b378fdb388bfae1723ea3b7953b2ae6969",
+                "6942000.0"
+            ],
+            [
+                "0xfe636473dcb6d86bbbb6165dd4b080c2f0decc31",
+                "0.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "277680000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                5,
+                "204789000.0"
+            ],
+            [
+                13,
+                "204789000.0"
+            ]
+        ]
+    },
+    "deployer": "0xfe636473dcb6d86bbbb6165dd4b080c2f0decc31",
+    "deployGas": "0.0",
+    "deployTime": "2024-06-06T14:50:14.290",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "1.0"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

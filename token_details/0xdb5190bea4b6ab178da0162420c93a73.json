@@ -1,0 +1,40 @@
+{
+    "name": "VAPOR",
+    "maxSupply": "1045000000.0",
+    "totalSupply": "1001288444.11150002",
+    "circulatingSupply": "1001269213.83424997",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.0293625",
+    "markPx": "0.029319",
+    "prevDayPx": "0.031119",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xea09dee22e4a666bf36c2d70f24340f2214bd1d9",
+                "100000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "345000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "600000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xea09dee22e4a666bf36c2d70f24340f2214bd1d9",
+    "deployGas": "17473.900453",
+    "deployTime": "2024-07-11T08:38:50.839",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "19230.27725"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

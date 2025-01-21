@@ -1,0 +1,79 @@
+{
+    "name": "NMTD",
+    "maxSupply": "1000000.0",
+    "totalSupply": "999642.31773097",
+    "circulatingSupply": "505832.96773097",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.433785",
+    "markPx": "0.43314",
+    "prevDayPx": "0.43965",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0000000000000000000000000000000000000000",
+                "493809.35"
+            ],
+            [
+                "0x0dc37317b9025cf1c215cbb2a30bc989a01e208d",
+                "196.76"
+            ],
+            [
+                "0x276fc1fd23b694d63b68a85b8199d344516c4acf",
+                "12238.25"
+            ],
+            [
+                "0x3b2ea4fce9fbe97253efe4a2b78bab63d6817adf",
+                "2117.68"
+            ],
+            [
+                "0x3f4234450e9a67b45cb5fa5d4de9a5dde4eb3f4f",
+                "3298.17"
+            ],
+            [
+                "0x59ff11eb73b50b0615821b8aa221929be1b8a2d9",
+                "2986.71"
+            ],
+            [
+                "0x634e318f320064f5d17ca4644c3a53ce855c572e",
+                "16519.32"
+            ],
+            [
+                "0x839615cc320d08b91a40c25574786636ea9e6937",
+                "23914.1"
+            ],
+            [
+                "0x8c58292105ff1b3c5db1f027deb81fb34cc078a5",
+                "2793.42"
+            ],
+            [
+                "0xa0fe8b388f867b74d464338969e190c48e654483",
+                "0.0"
+            ],
+            [
+                "0xa464abbf049fb75585484addcbc00169062e813a",
+                "30460.26"
+            ],
+            [
+                "0xe222e8715f088d9a60e3a0271a89b9a742f906fc",
+                "4885.98"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "406780.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0xa0fe8b388f867b74d464338969e190c48e654483",
+    "deployGas": "1030.335489",
+    "deployTime": "2024-09-14T09:10:49.079",
+    "seededUsdc": "539.32527",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "493809.35"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

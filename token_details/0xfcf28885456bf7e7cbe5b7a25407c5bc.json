@@ -1,0 +1,44 @@
+{
+    "name": "JEFF",
+    "maxSupply": "1000000.0",
+    "totalSupply": "995756.29126",
+    "circulatingSupply": "991085.97467",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "11.9895",
+    "markPx": "12.008",
+    "prevDayPx": "11.344",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x81196517de1d77ebc8a1951c3ea1a103e732479c",
+                "100000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "300000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "600000.0"
+            ]
+        ]
+    },
+    "deployer": "0x81196517de1d77ebc8a1951c3ea1a103e732479c",
+    "deployGas": "0.0",
+    "deployTime": "2024-05-24T07:28:52.305",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "4.74933"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "4665.56726"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

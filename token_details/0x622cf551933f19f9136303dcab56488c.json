@@ -1,0 +1,35 @@
+{
+    "name": "MON",
+    "maxSupply": "1000000000.0",
+    "totalSupply": "999989736.0914135",
+    "circulatingSupply": "999989736.0821141",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.068152",
+    "markPx": "0.068153",
+    "prevDayPx": "0.082801",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x8cfac7c6f03e00db2f298699df96933a9694b6ab",
+                "989999998.39999998"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "10000001.6"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x0b1f6d23200b98ce2da99b78159ff605dd46b0f3",
+    "deployGas": "487936.858517",
+    "deployTime": "2024-12-15T14:14:55.929",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "0.00929932"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

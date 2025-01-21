@@ -1,0 +1,35 @@
+{
+    "name": "PEPE",
+    "maxSupply": "100000000.0",
+    "totalSupply": "99729573.46471331",
+    "circulatingSupply": "99729573.46471331",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": "0.002984",
+    "markPx": "0.001237",
+    "prevDayPx": "0.002078",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "50000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                4,
+                "15000000.0"
+            ],
+            [
+                10,
+                "35000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x57fa3dd7d4afd23ad4ffb8dc3f6e0451841f9f1c",
+    "deployGas": "0.0",
+    "deployTime": "2024-06-02T16:00:36.869",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

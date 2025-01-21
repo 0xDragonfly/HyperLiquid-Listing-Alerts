@@ -1,0 +1,88 @@
+{
+    "name": "VEGAS",
+    "maxSupply": "10000000.00002",
+    "totalSupply": "9981272.93874493",
+    "circulatingSupply": "9954646.39696558",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.11452",
+    "markPx": "0.11435",
+    "prevDayPx": "0.13496",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x044833679330ff03776c849c72c56daaaa9bd288",
+                "2000.0"
+            ],
+            [
+                "0x3d2fa7d824d2788756e78b13d0bdf04db5e6ed29",
+                "2000.0"
+            ],
+            [
+                "0x4d8ecbf62045fc2d13e08e20e0709fb445685f1c",
+                "2000.0"
+            ],
+            [
+                "0x706950294ccc9e1359be51d154aa960929ce50a1",
+                "2000.0"
+            ],
+            [
+                "0x7e590f587aafabd2251666574c97b4680e0ad189",
+                "2000.0"
+            ],
+            [
+                "0x975bc3aa3a784a334e57f8a0934e953db39fbdc7",
+                "2000.0"
+            ],
+            [
+                "0x98b7a46a33d60f71522115ab7e2ec8f0fc294038",
+                "0.00002"
+            ],
+            [
+                "0xac5918bb261636be374d28684171eb4a6793b57d",
+                "2000.0"
+            ],
+            [
+                "0xb696f90c50a785db97448f862affa94198829a77",
+                "2000.0"
+            ],
+            [
+                "0xbda51102f0ebdd49ae38d7474027c4b5cf2318f0",
+                "313000.0"
+            ],
+            [
+                "0xdc658fbf531f112fb1e139b47360ee57f9f701eb",
+                "2000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "3669000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "3000000.0"
+            ],
+            [
+                7,
+                "3000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xd5d04ad6d8170631ba6f293d8a015dfa445b22c6",
+    "deployGas": "11080.096006",
+    "deployTime": "2024-06-19T16:34:13.385",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "0.04177935"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "26626.5"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

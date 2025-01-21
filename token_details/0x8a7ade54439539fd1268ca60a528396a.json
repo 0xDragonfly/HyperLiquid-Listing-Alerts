@@ -1,0 +1,42 @@
+{
+    "name": "ANT",
+    "maxSupply": "1000000.0",
+    "totalSupply": "999515.58927166",
+    "circulatingSupply": "999515.58927166",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.166265",
+    "markPx": "0.16602",
+    "prevDayPx": "0.17462",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x1917041751deea34e93a173fecd8107885717112",
+                "100000.0"
+            ],
+            [
+                "0x59bd873867c83c9b069fea6a938aa9cfe4fcf1b9",
+                "50000.0"
+            ],
+            [
+                "0x66f814d91a1425545d5bc3536ebaf7ea465e7f22",
+                "200000.0"
+            ],
+            [
+                "0x99537de21e74bddd05bcd39940c3a06045832de3",
+                "150000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "500000.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x66f814d91a1425545d5bc3536ebaf7ea465e7f22",
+    "deployGas": "10383.822131",
+    "deployTime": "2024-08-06T05:03:11.779",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "NEIRO",
+    "maxSupply": "98750000.0",
+    "totalSupply": "98696780.668799",
+    "circulatingSupply": "98696759.85293099",
+    "szDecimals": 1,
+    "weiDecimals": 6,
+    "midPx": "0.0022046",
+    "markPx": "0.0022013",
+    "prevDayPx": "0.0023093",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "48750000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "25000000.0"
+            ],
+            [
+                61,
+                "25000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x45780eae98fd7b2d1a95c659d1dd8bf49352c8be",
+    "deployGas": "6996.80613",
+    "deployTime": "2024-08-27T01:44:52.119",
+    "seededUsdc": "872.9975",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "0.091088"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "20.72478"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

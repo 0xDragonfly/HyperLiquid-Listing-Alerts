@@ -1,0 +1,35 @@
+{
+    "name": "FUCKY",
+    "maxSupply": "140000000.0",
+    "totalSupply": "138378816.32046309",
+    "circulatingSupply": "138378816.32046309",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.001233",
+    "markPx": "0.001231",
+    "prevDayPx": "0.001291",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xfacb7404c1fad06444bda161d1304e4b7aa14e77",
+                "5000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "60000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                5,
+                "75000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xfacb7404c1fad06444bda161d1304e4b7aa14e77",
+    "deployGas": "0.0",
+    "deployTime": "2024-06-08T08:47:46.118",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

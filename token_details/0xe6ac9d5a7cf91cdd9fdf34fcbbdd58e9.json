@@ -1,0 +1,48 @@
+{
+    "name": "HOPE",
+    "maxSupply": "1000000000.0",
+    "totalSupply": "999813582.03137004",
+    "circulatingSupply": "789813582.03137004",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00097134",
+    "markPx": "0.00096989",
+    "prevDayPx": "0.00099938",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0b753f0ed8adcf585cf3bc70e6be45935fdbba88",
+                "100000000.0"
+            ],
+            [
+                "0x658d47d28ed74013b9273df746aa6888adc28480",
+                "75000000.0"
+            ],
+            [
+                "0xe00b6ec1020e567f91b95bbcfecd260b78b49188",
+                "100000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "675000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                7,
+                "50000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x4d90593520274f86e4a6d6d6c996e25fc8bf70e6",
+    "deployGas": "12470.771514",
+    "deployTime": "2024-10-23T07:36:14.297",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "210000000.0"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

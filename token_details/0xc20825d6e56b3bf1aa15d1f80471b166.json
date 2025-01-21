@@ -1,0 +1,51 @@
+{
+    "name": "RIP",
+    "maxSupply": "1000000.0",
+    "totalSupply": "999810.63175154",
+    "circulatingSupply": "456226.74175154",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.894035",
+    "markPx": "0.8927",
+    "prevDayPx": "0.89805",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0000000000000000000000000000000000000000",
+                "543583.89"
+            ],
+            [
+                "0x132d6953da74dd1ccade7da0c3fa312179f0621c",
+                "0.0"
+            ],
+            [
+                "0x7205fa8a433f9056a8fd14e1416d6295d1351817",
+                "20955.85"
+            ],
+            [
+                "0x73c4fd71af529d70c057f8bb081d808b902392b1",
+                "19607.87"
+            ],
+            [
+                "0xa464abbf049fb75585484addcbc00169062e813a",
+                "4782.39"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "411070.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x132d6953da74dd1ccade7da0c3fa312179f0621c",
+    "deployGas": "393.005365",
+    "deployTime": "2024-10-12T15:45:22.163",
+    "seededUsdc": "439.44065",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "543583.89"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

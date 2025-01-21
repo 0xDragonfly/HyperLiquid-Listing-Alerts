@@ -1,0 +1,44 @@
+{
+    "name": "PANDA",
+    "maxSupply": "100000000.0",
+    "totalSupply": "99875783.4734",
+    "circulatingSupply": "78204817.0345",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.0087512",
+    "markPx": "0.0087381",
+    "prevDayPx": "0.0088168",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xeacdb112d3d7882af10ef31b65e6addb595092d0",
+                "50000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "45000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                9,
+                "5000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xeacdb112d3d7882af10ef31b65e6addb595092d0",
+    "deployGas": "14910.860252",
+    "deployTime": "2024-07-03T18:47:51.051",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "20628001.26382"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "1042965.17508"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

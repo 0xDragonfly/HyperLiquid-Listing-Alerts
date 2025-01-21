@@ -1,0 +1,44 @@
+{
+    "name": "PEAR",
+    "maxSupply": "99998200.0",
+    "totalSupply": "99861814.76249599",
+    "circulatingSupply": "99861564.811352",
+    "szDecimals": 1,
+    "weiDecimals": 6,
+    "midPx": "0.0021895",
+    "markPx": "0.0021862",
+    "prevDayPx": "0.0024942",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "49366200.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "25316000.0"
+            ],
+            [
+                78,
+                "25316000.0"
+            ]
+        ]
+    },
+    "deployer": "0x9035e9004a4f1e88c296be507c5cea8f99ff8a63",
+    "deployGas": "7996.51779",
+    "deployTime": "2024-08-18T04:09:19.696",
+    "seededUsdc": "873.039982",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "188.152177"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "61.798967"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

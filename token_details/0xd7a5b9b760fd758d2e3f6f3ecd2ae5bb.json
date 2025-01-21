@@ -1,0 +1,30 @@
+{
+    "name": "ORA",
+    "maxSupply": "33333333.0",
+    "totalSupply": "33333311.59072543",
+    "circulatingSupply": "33333311.59072543",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "2.04655",
+    "markPx": "2.0496",
+    "prevDayPx": "2.0557",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x553e545d85e2afb67c8b5223f51fe97e7dde8b74",
+                "32999993.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "333340.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x553e545d85e2afb67c8b5223f51fe97e7dde8b74",
+    "deployGas": "397011.927345",
+    "deployTime": "2025-01-02T02:54:37.446",
+    "seededUsdc": "102673.7852",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

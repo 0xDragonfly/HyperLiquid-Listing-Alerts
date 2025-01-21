@@ -1,0 +1,44 @@
+{
+    "name": "PILL",
+    "maxSupply": "100000000.0",
+    "totalSupply": "97589669.38289492",
+    "circulatingSupply": "89414391.10944688",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.003777",
+    "markPx": "0.003776",
+    "prevDayPx": "0.004126",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xceebc1c8e24786d9232e75ff1780835f23dff314",
+                "5000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "35000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                14,
+                "30000000.0"
+            ],
+            [
+                36,
+                "30000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xceebc1c8e24786d9232e75ff1780835f23dff314",
+    "deployGas": "25498.91404",
+    "deployTime": "2024-07-14T23:11:28.941",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x000000000000000000000000000000000000dead",
+            "8175278.27344803"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

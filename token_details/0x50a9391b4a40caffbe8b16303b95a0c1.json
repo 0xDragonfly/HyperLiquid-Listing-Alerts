@@ -1,0 +1,26 @@
+{
+    "name": "SIX",
+    "maxSupply": "6666669.06",
+    "totalSupply": "6658442.76182366",
+    "circulatingSupply": "6658442.76182366",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.72378",
+    "markPx": "0.7227",
+    "prevDayPx": "0.7227",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "6666669.06"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0xcc16ae2ffc076d7bcd5ec3fb1e9aa5c2984133a1",
+    "deployGas": "0.0",
+    "deployTime": "2024-05-25T10:00:00.096",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

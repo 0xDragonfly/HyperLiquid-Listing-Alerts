@@ -1,0 +1,84 @@
+{
+    "name": "OMNIX",
+    "maxSupply": "999500000.0",
+    "totalSupply": "999212801.84315705",
+    "circulatingSupply": "568709047.37447405",
+    "szDecimals": 1,
+    "weiDecimals": 6,
+    "midPx": "0.0055214",
+    "markPx": "0.0055132",
+    "prevDayPx": "0.0062897",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x088b8b91e4416729f00c65cd9743099c3bebd1f8",
+                "250000000.0"
+            ],
+            [
+                "0x27c56e8fc7a25133aae6806675f1a40a07e2d0b5",
+                "20000000.0"
+            ],
+            [
+                "0x3109836d33dd4c7f9572d67d941d262956675d8c",
+                "260000000.0"
+            ],
+            [
+                "0x7462845702ac54eb2e5837d1fde0323f6e053e11",
+                "15000000.0"
+            ],
+            [
+                "0x8b8f6fcdfed5d9cac1676eed0c99e3d40cf828ed",
+                "10000000.0"
+            ],
+            [
+                "0xf4d039ceb0923f05ace70d0dd5dc47135706742c",
+                "150000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "199500000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "70000000.0"
+            ],
+            [
+                2,
+                "25000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x3109836d33dd4c7f9572d67d941d262956675d8c",
+    "deployGas": "13324.851558",
+    "deployTime": "2024-07-25T22:22:31.672",
+    "seededUsdc": "50183.424",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "2.468683"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "16223752.0"
+        ],
+        [
+            "0x088b8b91e4416729f00c65cd9743099c3bebd1f8",
+            "239280000.0"
+        ],
+        [
+            "0x7462845702ac54eb2e5837d1fde0323f6e053e11",
+            "15000000.0"
+        ],
+        [
+            "0x8b8f6fcdfed5d9cac1676eed0c99e3d40cf828ed",
+            "10000000.0"
+        ],
+        [
+            "0xf4d039ceb0923f05ace70d0dd5dc47135706742c",
+            "150000000.0"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

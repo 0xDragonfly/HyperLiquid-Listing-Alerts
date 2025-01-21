@@ -1,0 +1,71 @@
+{
+    "name": "MOON",
+    "maxSupply": "0.0",
+    "totalSupply": "0.0",
+    "circulatingSupply": "0.0",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": null,
+    "markPx": "1.0",
+    "prevDayPx": "0.0",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0000000000000000000000000000000000000000",
+                "0.0"
+            ],
+            [
+                "0x1dc67adaf9f163c5b1a95043addbdfa1af58e512",
+                "9000000000.0"
+            ],
+            [
+                "0x1fa1c893161c4f7e7e22443951c2504aa8d268da",
+                "0.0"
+            ],
+            [
+                "0x24d0b4f672bb6c887e8282024cde81217ef52701",
+                "10000000.0"
+            ],
+            [
+                "0x555a97609ea12c6c10cd66468b53da42788485d0",
+                "10000000.0"
+            ],
+            [
+                "0xa464abbf049fb75585484addcbc00169062e813a",
+                "10000000.0"
+            ],
+            [
+                "0xae551d73161bac3315c5ade0e2d499a44ebe2236",
+                "10000000.0"
+            ],
+            [
+                "0xd5d04ad6d8170631ba6f293d8a015dfa445b22c6",
+                "10000000.0"
+            ],
+            [
+                "0xfe636473dcb6d86bbbb6165dd4b080c2f0decc31",
+                "10000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "900000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                13,
+                "20000000.0"
+            ],
+            [
+                25,
+                "20000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xe98296e077ff68ee3ce2fd6b20326090ce046bf1",
+    "deployGas": "2178.437206",
+    "deployTime": "2024-09-02T14:03:06.543",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "SCHIZO",
+    "maxSupply": "1000000.0",
+    "totalSupply": "997754.72855506",
+    "circulatingSupply": "997754.72855506",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "3.5506",
+    "markPx": "3.5453",
+    "prevDayPx": "3.62",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xe2a0cc663acfe5d7a9cb82a743383297597a8ff3",
+                "300000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "400000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                2,
+                "300000.0"
+            ]
+        ]
+    },
+    "deployer": "0xe2a0cc663acfe5d7a9cb82a743383297597a8ff3",
+    "deployGas": "7342.039235",
+    "deployTime": "2024-06-22T06:11:36.417",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

@@ -1,0 +1,48 @@
+{
+    "name": "SELL",
+    "maxSupply": "400000000.0",
+    "totalSupply": "393942943.98517001",
+    "circulatingSupply": "318969934.40617001",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.0004205",
+    "markPx": "0.00041987",
+    "prevDayPx": "0.00045117",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x03738f950aa079dc8afbe287244111f29e2d3bb5",
+                "100000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "100000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "100000000.0"
+            ],
+            [
+                5,
+                "100000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x03738f950aa079dc8afbe287244111f29e2d3bb5",
+    "deployGas": "6858.542719",
+    "deployTime": "2024-06-26T06:10:57.298",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "87946.0"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "74885063.579"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

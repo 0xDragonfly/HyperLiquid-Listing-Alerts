@@ -1,0 +1,48 @@
+{
+    "name": "GUP",
+    "maxSupply": "1000000.0",
+    "totalSupply": "968287.48082023",
+    "circulatingSupply": "868287.48082023",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.146545",
+    "markPx": "0.14633",
+    "prevDayPx": "0.16527",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x098266ea272888154d0eed9103df2eba5e2f1489",
+                "5000.0"
+            ],
+            [
+                "0x942f00b378fdb388bfae1723ea3b7953b2ae6969",
+                "5000.0"
+            ],
+            [
+                "0xf2e65447c789bb64c8d5991a468f0eecf5bf8408",
+                "90000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "300000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "600000.0"
+            ]
+        ]
+    },
+    "deployer": "0xf2e65447c789bb64c8d5991a468f0eecf5bf8408",
+    "deployGas": "10634.225716",
+    "deployTime": "2024-06-30T23:28:50.764",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x000000000000000000000000000000000000dead",
+            "100000.0"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

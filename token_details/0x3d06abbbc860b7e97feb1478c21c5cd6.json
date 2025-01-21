@@ -1,0 +1,35 @@
+{
+    "name": "HAPPY",
+    "maxSupply": "1000000.0",
+    "totalSupply": "998584.34171754",
+    "circulatingSupply": "988584.34171754",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.31581",
+    "markPx": "0.31534",
+    "prevDayPx": "0.32199",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xf634efe7ecc04d2be811f4968d12c7ea7b458b98",
+                "100000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "900000.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0xf634efe7ecc04d2be811f4968d12c7ea7b458b98",
+    "deployGas": "9734.142712",
+    "deployTime": "2024-06-24T15:20:09.334",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "10000.0"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

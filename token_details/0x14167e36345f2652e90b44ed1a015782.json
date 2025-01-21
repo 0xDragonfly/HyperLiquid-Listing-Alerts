@@ -1,0 +1,26 @@
+{
+    "name": "AZUR",
+    "maxSupply": "0.0",
+    "totalSupply": "0.0",
+    "circulatingSupply": "0.0",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": null,
+    "markPx": "1.0",
+    "prevDayPx": "0.0",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x98703d0f6e86b9d3ea78cf7e768bdfdbfc40039f",
+                "20000.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x98703d0f6e86b9d3ea78cf7e768bdfdbfc40039f",
+    "deployGas": "13973.982499",
+    "deployTime": "2024-11-16T17:31:35.280",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

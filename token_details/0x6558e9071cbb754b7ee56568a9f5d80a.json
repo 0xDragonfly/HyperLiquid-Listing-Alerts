@@ -1,0 +1,44 @@
+{
+    "name": "LUCKY",
+    "maxSupply": "925600000.0",
+    "totalSupply": "924954324.94299996",
+    "circulatingSupply": "924654580.89328003",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00040231",
+    "markPx": "0.00040171",
+    "prevDayPx": "0.00042524",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x98fac55f51308405509995881de595f5b3235814",
+                "50000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "545600000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "165000000.0"
+            ],
+            [
+                128,
+                "165000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x62bf35f46e4bcc75c0a935380f12545a93d2a036",
+    "deployGas": "19902.147692",
+    "deployTime": "2024-11-20T10:03:10.220",
+    "seededUsdc": "1646.2209",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "299744.04972"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

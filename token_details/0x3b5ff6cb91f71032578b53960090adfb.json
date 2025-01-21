@@ -1,0 +1,39 @@
+{
+    "name": "CZ",
+    "maxSupply": "4444425.7977148",
+    "totalSupply": "4437314.3770493",
+    "circulatingSupply": "4437314.3770493",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": "0.24746",
+    "markPx": "0.24709",
+    "prevDayPx": "0.24857",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xf517639a8872e756ac98d3c65507d2ebc25cc032",
+                "335432.8988574"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "3773560.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "167716.4494287"
+            ],
+            [
+                5,
+                "167716.4494287"
+            ]
+        ]
+    },
+    "deployer": "0xf517639a8872e756ac98d3c65507d2ebc25cc032",
+    "deployGas": "0.0",
+    "deployTime": "2024-06-08T22:07:22.035",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

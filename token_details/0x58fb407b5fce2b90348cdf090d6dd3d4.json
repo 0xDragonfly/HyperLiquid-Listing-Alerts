@@ -1,0 +1,35 @@
+{
+    "name": "FRAC",
+    "maxSupply": "23600000.0",
+    "totalSupply": "23594729.639087",
+    "circulatingSupply": "3994729.575127",
+    "szDecimals": 1,
+    "weiDecimals": 6,
+    "midPx": "0.431825",
+    "markPx": "0.43247",
+    "prevDayPx": "0.34682",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x95c2c8c86c964f0b456ec7a78d3e354cf41b3df4",
+                "19600000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "4000000.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x95c2c8c86c964f0b456ec7a78d3e354cf41b3df4",
+    "deployGas": "11993.746472",
+    "deployTime": "2024-08-07T14:09:36.807",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x000000000000000000000000000000000000dead",
+            "19600000.06396"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

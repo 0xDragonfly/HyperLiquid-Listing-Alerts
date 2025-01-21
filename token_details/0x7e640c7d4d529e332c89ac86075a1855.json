@@ -1,0 +1,30 @@
+{
+    "name": "VIZN",
+    "maxSupply": "4000000.01",
+    "totalSupply": "3999632.73811497",
+    "circulatingSupply": "3999632.73811497",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.17371",
+    "markPx": "0.17345",
+    "prevDayPx": "0.17397",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x91388d914d5c67d57b8c5484e3c9013dccc2b9fa",
+                "0.01"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "4000000.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x91388d914d5c67d57b8c5484e3c9013dccc2b9fa",
+    "deployGas": "18882.81339",
+    "deployTime": "2024-11-10T04:28:56.981",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

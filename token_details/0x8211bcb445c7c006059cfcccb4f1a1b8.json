@@ -1,0 +1,48 @@
+{
+    "name": "GUESS",
+    "maxSupply": "10000000.0",
+    "totalSupply": "9990594.7365738",
+    "circulatingSupply": "9834388.5784002",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": "0.013074",
+    "markPx": "0.013055",
+    "prevDayPx": "0.016889",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x2d527153b2cf01a3a631ca55bc90d94851476251",
+                "6500000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "2500000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                36,
+                "500000.0"
+            ],
+            [
+                38,
+                "500000.0"
+            ]
+        ]
+    },
+    "deployer": "0x2d527153b2cf01a3a631ca55bc90d94851476251",
+    "deployGas": "8880.908312",
+    "deployTime": "2024-08-22T00:47:25.892",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "17.1127854"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "156189.0453882"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

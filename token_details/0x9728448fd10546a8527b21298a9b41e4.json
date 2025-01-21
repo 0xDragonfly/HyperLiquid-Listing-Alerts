@@ -1,0 +1,47 @@
+{
+    "name": "STACK",
+    "maxSupply": "1000000.0",
+    "totalSupply": "999783.22723309",
+    "circulatingSupply": "414476.08723309",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.992675",
+    "markPx": "0.99119",
+    "prevDayPx": "0.99119",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0000000000000000000000000000000000000000",
+                "419822.14"
+            ],
+            [
+                "0x7706c32b818aa060951fbbdd9d27d94c55799cfb",
+                "0.0"
+            ],
+            [
+                "0xde147edca50922c6ec823eee3d098dd4fabad79e",
+                "180327.86"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "399850.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x7706c32b818aa060951fbbdd9d27d94c55799cfb",
+    "deployGas": "2193.198054",
+    "deployTime": "2024-09-25T15:21:59.874",
+    "seededUsdc": "727.48577",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "419822.14"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "165485.0"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

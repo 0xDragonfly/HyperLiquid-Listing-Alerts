@@ -1,0 +1,103 @@
+{
+    "name": "SPH",
+    "maxSupply": "1000000.0",
+    "totalSupply": "999261.08533449",
+    "circulatingSupply": "617225.43533449",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "6.1596",
+    "markPx": "6.1504",
+    "prevDayPx": "5.6909",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0000000000000000000000000000000000000000",
+                "382035.65"
+            ],
+            [
+                "0x30a712758896b443d447f486737b91b54161e64f",
+                "8001.7"
+            ],
+            [
+                "0x3e54676cd3b240376f22c7f69bba65625f370f48",
+                "19103.72"
+            ],
+            [
+                "0x555a97609ea12c6c10cd66468b53da42788485d0",
+                "30887.64"
+            ],
+            [
+                "0x67ed531aa5a51f81f8c35e4626d7a4b17fd2925e",
+                "8706.12"
+            ],
+            [
+                "0x6b22cbe6aaf210304fe7b0101b99bc901695ead6",
+                "785.2"
+            ],
+            [
+                "0x73c4fd71af529d70c057f8bb081d808b902392b1",
+                "6131.21"
+            ],
+            [
+                "0x8ee850b65aa68e44198f252ed118100cdec9626e",
+                "3156.46"
+            ],
+            [
+                "0xa464abbf049fb75585484addcbc00169062e813a",
+                "37961.95"
+            ],
+            [
+                "0xa56ad01ab811ce02e58adba2ea602c572c5f2b78",
+                "4391.92"
+            ],
+            [
+                "0xc75688361386b54c83869d9786918c831b070ad5",
+                "786.68"
+            ],
+            [
+                "0xcabc31beb82e6462352f6ebac31a26c5580009d5",
+                "6388.93"
+            ],
+            [
+                "0xd4c97add276183c13a84467c5340dd81e06fff02",
+                "4383.57"
+            ],
+            [
+                "0xd5d04ad6d8170631ba6f293d8a015dfa445b22c6",
+                "15907.96"
+            ],
+            [
+                "0xe1083eaa2be3b9522cc7157e8fbb41d8e6eeb81e",
+                "9936.06"
+            ],
+            [
+                "0xe2a0cc663acfe5d7a9cb82a743383297597a8ff3",
+                "35883.32"
+            ],
+            [
+                "0xe6de388069b2977bef49b17cc8f7b9f719d730a2",
+                "29441.91"
+            ],
+            [
+                "0xef21f6a8b2e3309d9edeeec6b0bb7963088814bf",
+                "0.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "396110.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0xef21f6a8b2e3309d9edeeec6b0bb7963088814bf",
+    "deployGas": "2186.0498",
+    "deployTime": "2024-10-17T02:00:00.026",
+    "seededUsdc": "844.79087",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "382035.65"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

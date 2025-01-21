@@ -1,0 +1,39 @@
+{
+    "name": "ARI",
+    "maxSupply": "100000000.0",
+    "totalSupply": "97036319.5718769",
+    "circulatingSupply": "97036319.5718769",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.001751",
+    "markPx": "0.001751",
+    "prevDayPx": "0.001731",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x5f15b79d948ef6e3e73bf4257cbcd8e5042f3903",
+                "15000000.0"
+            ],
+            [
+                "0xdaa29f6264adf4e8ce8e5237155ed984a9b31b17",
+                "15000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "40000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "30000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xdaa29f6264adf4e8ce8e5237155ed984a9b31b17",
+    "deployGas": "16382.656506",
+    "deployTime": "2024-08-01T07:19:23.169",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

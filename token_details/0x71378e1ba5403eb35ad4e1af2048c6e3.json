@@ -1,0 +1,68 @@
+{
+    "name": "LADY",
+    "maxSupply": "10000000.0",
+    "totalSupply": "7093838.6389363",
+    "circulatingSupply": "6391084.9672264",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": "0.055517",
+    "markPx": "0.055434",
+    "prevDayPx": "0.058855",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x017e1f81b2e17bd02c4cd337fcbeabe01a0b4bf0",
+                "344048.0"
+            ],
+            [
+                "0x6011fdf081afd0aab6c04420ed31cc3ae6e0756b",
+                "1800000.0"
+            ],
+            [
+                "0x6f582a74e2710a27ce3e715628056e2a66062618",
+                "1500000.0"
+            ],
+            [
+                "0xcc2aa1f2bd7206f405e890c1a982098c633eda39",
+                "83333.0"
+            ],
+            [
+                "0xe07e9cfd33830fd3790ad93e78615019c0cb42c1",
+                "228571.0"
+            ],
+            [
+                "0xfd6aee13b037fe2644dbff826e3642338a205907",
+                "344048.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "3300000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                27,
+                "1000000.0"
+            ],
+            [
+                36,
+                "1400000.0"
+            ]
+        ]
+    },
+    "deployer": "0xfd6aee13b037fe2644dbff826e3642338a205907",
+    "deployGas": "18681.097065",
+    "deployTime": "2024-07-18T01:17:43.103",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "342944.48968"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "359809.1820299"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

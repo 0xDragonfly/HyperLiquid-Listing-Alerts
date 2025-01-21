@@ -1,0 +1,34 @@
+{
+    "name": "G",
+    "maxSupply": "1000000.0",
+    "totalSupply": "999780.7763885",
+    "circulatingSupply": "999780.7763885",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": "0.319525",
+    "markPx": "0.3",
+    "prevDayPx": "0.31098",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x103370a308e24406e0fe897ab2178fc33faffc89",
+                "133700.0"
+            ],
+            [
+                "0x1dc67adaf9f163c5b1a95043addbdfa1af58e512",
+                "148800.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "717500.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x103370a308e24406e0fe897ab2178fc33faffc89",
+    "deployGas": "840.418728",
+    "deployTime": "2024-10-07T15:03:02.294",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "MONAD",
+    "maxSupply": "225000000.0",
+    "totalSupply": "224897896.44870105",
+    "circulatingSupply": "224627689.38724557",
+    "szDecimals": 1,
+    "weiDecimals": 8,
+    "midPx": "0.0017374",
+    "markPx": "0.0017348",
+    "prevDayPx": "0.0017504",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x754ab7fd1c671a5b142c1973bf8db9503a2924b7",
+                "2250000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "189000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                76,
+                "11250000.0"
+            ],
+            [
+                113,
+                "22500000.0"
+            ]
+        ]
+    },
+    "deployer": "0x30a712758896b443d447f486737b91b54161e64f",
+    "deployGas": "448.712977",
+    "deployTime": "2024-10-09T21:10:35.871",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "270207.06145546"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

@@ -1,0 +1,40 @@
+{
+    "name": "CAPPY",
+    "maxSupply": "1000000000.0",
+    "totalSupply": "982939801.81034005",
+    "circulatingSupply": "982939192.71608996",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00015272",
+    "markPx": "0.00012",
+    "prevDayPx": "0.00016527",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x02327a889869195464d32a466d0606053fc19598",
+                "899000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "100000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "1000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x02327a889869195464d32a466d0606053fc19598",
+    "deployGas": "0.0",
+    "deployTime": "2024-05-28T00:25:35.040",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "609.09425"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

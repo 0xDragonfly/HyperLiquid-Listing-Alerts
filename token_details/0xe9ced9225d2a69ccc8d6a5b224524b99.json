@@ -1,0 +1,44 @@
+{
+    "name": "MANLET",
+    "maxSupply": "10000000.0",
+    "totalSupply": "9777326.24521",
+    "circulatingSupply": "9777326.08461",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.028186",
+    "markPx": "0.028144",
+    "prevDayPx": "0.028651",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x21aa8b9f2339af03e9e9be71a76ab70cbef74157",
+                "500000.0"
+            ],
+            [
+                "0x75e88f252cedd3300c12087392e4639f27aef825",
+                "2000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "7000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "500000.0"
+            ]
+        ]
+    },
+    "deployer": "0x8191fed3f7c09fd9ee0fbd4b3ab485911ec6e8cc",
+    "deployGas": "0.0",
+    "deployTime": "2024-05-22T02:00:18.710",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "0.1606"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

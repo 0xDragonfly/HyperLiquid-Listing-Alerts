@@ -1,0 +1,83 @@
+{
+    "name": "CHINA",
+    "maxSupply": "1000000.0",
+    "totalSupply": "999679.934398",
+    "circulatingSupply": "579770.264398",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.632055",
+    "markPx": "0.63111",
+    "prevDayPx": "0.64253",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0000000000000000000000000000000000000000",
+                "419909.67"
+            ],
+            [
+                "0x092eb19442a9a8925d65628588a9dd63391a8a0c",
+                "2388.74"
+            ],
+            [
+                "0x3f4234450e9a67b45cb5fa5d4de9a5dde4eb3f4f",
+                "838.82"
+            ],
+            [
+                "0x42a55f08c341ae42572f4042dee7bf35d707b3b3",
+                "3640.13"
+            ],
+            [
+                "0x555a97609ea12c6c10cd66468b53da42788485d0",
+                "3864.62"
+            ],
+            [
+                "0x6b22cbe6aaf210304fe7b0101b99bc901695ead6",
+                "3898.83"
+            ],
+            [
+                "0x7205fa8a433f9056a8fd14e1416d6295d1351817",
+                "66525.29"
+            ],
+            [
+                "0x73c4fd71af529d70c057f8bb081d808b902392b1",
+                "20428.02"
+            ],
+            [
+                "0x8ee850b65aa68e44198f252ed118100cdec9626e",
+                "642.91"
+            ],
+            [
+                "0xa464abbf049fb75585484addcbc00169062e813a",
+                "3981.37"
+            ],
+            [
+                "0xa4a59b332d9a9a4d065f2563b4fdad12104a9fdd",
+                "0.0"
+            ],
+            [
+                "0xf7d09e599d33767621b91606793dfd97baa25452",
+                "53717.72"
+            ],
+            [
+                "0xfd79f504f2826d1394103bb000026432513d7a21",
+                "20203.88"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "399960.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0xa4a59b332d9a9a4d065f2563b4fdad12104a9fdd",
+    "deployGas": "1791.207991",
+    "deployTime": "2024-09-24T08:10:40.817",
+    "seededUsdc": "724.21327",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "419909.67"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

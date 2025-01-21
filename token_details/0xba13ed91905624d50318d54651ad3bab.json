@@ -1,0 +1,35 @@
+{
+    "name": "ADHD",
+    "maxSupply": "100000000.0",
+    "totalSupply": "99357730.45184",
+    "circulatingSupply": "99357730.45184",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.0061712",
+    "markPx": "0.006162",
+    "prevDayPx": "0.0083087",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "40000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                9,
+                "30000000.0"
+            ],
+            [
+                14,
+                "30000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x89ce7c0adf950341d48213db84421aed654acb84",
+    "deployGas": "19636.059535",
+    "deployTime": "2024-07-16T21:06:04.690",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

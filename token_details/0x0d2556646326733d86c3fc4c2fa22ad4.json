@@ -1,0 +1,48 @@
+{
+    "name": "KOBE",
+    "maxSupply": "1000000000.0",
+    "totalSupply": "998181702.10599005",
+    "circulatingSupply": "758181702.10599005",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00017435",
+    "markPx": "0.00017461",
+    "prevDayPx": "0.00017619",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x000000000000000000000000000000000000dead",
+                "240000000.0"
+            ],
+            [
+                "0xfa10fcd5f3e56d87b76bbe5c62d85c422ed25342",
+                "80000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "440000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                19,
+                "120000000.0"
+            ],
+            [
+                20,
+                "120000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xfa10fcd5f3e56d87b76bbe5c62d85c422ed25342",
+    "deployGas": "12722.849116",
+    "deployTime": "2024-06-18T04:44:45.553",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x000000000000000000000000000000000000dead",
+            "240000000.0"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

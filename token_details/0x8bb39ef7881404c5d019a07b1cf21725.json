@@ -1,0 +1,39 @@
+{
+    "name": "CATNIP",
+    "maxSupply": "10000000.0",
+    "totalSupply": "9925263.27256218",
+    "circulatingSupply": "9925263.27256218",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.024504",
+    "markPx": "0.02449",
+    "prevDayPx": "0.027805",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x27bf82cee5693f43d32773d884ba8727c8e89b90",
+                "500000.0"
+            ],
+            [
+                "0x4d198161533540986d75212fc991a33779bf0e2a",
+                "500000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "1500000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "7500000.0"
+            ]
+        ]
+    },
+    "deployer": "0x27bf82cee5693f43d32773d884ba8727c8e89b90",
+    "deployGas": "8050.890531",
+    "deployTime": "2024-06-23T10:05:58.351",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

@@ -1,0 +1,87 @@
+{
+    "name": "SHOE",
+    "maxSupply": "1000000.0",
+    "totalSupply": "999671.92900454",
+    "circulatingSupply": "431018.09900454",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.378815",
+    "markPx": "0.37887",
+    "prevDayPx": "0.38279",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0000000000000000000000000000000000000000",
+                "568653.83"
+            ],
+            [
+                "0x30a712758896b443d447f486737b91b54161e64f",
+                "18668.31"
+            ],
+            [
+                "0x555a97609ea12c6c10cd66468b53da42788485d0",
+                "73360.58"
+            ],
+            [
+                "0x6b22cbe6aaf210304fe7b0101b99bc901695ead6",
+                "2355.39"
+            ],
+            [
+                "0x73c4fd71af529d70c057f8bb081d808b902392b1",
+                "44230.75"
+            ],
+            [
+                "0x7444a26c120c7dd03632de503b8d754decbf6247",
+                "11345.39"
+            ],
+            [
+                "0x8ee850b65aa68e44198f252ed118100cdec9626e",
+                "1174.99"
+            ],
+            [
+                "0x95fa187a1ad36f77f7b178051d5c58b5023888d1",
+                "24376.62"
+            ],
+            [
+                "0xb743e03c9b8e0b4a22815ce359b7ecd6407e6abc",
+                "99.99"
+            ],
+            [
+                "0xbe10fd36393c8b677281d0bc2cf1bb8c98ad4b34",
+                "77279.49"
+            ],
+            [
+                "0xd5af7ee876b264e5faa71248e0426631f11c05a4",
+                "3465.36"
+            ],
+            [
+                "0xe2a0cc663acfe5d7a9cb82a743383297597a8ff3",
+                "27478.89"
+            ],
+            [
+                "0xe8f497cfe4a6354937ed85a87bf1e420928d1f01",
+                "0.0"
+            ],
+            [
+                "0xee14e10c2b227ade050d4f9fea5a1cfb6fa96cd9",
+                "49830.41"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "97680.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0xe8f497cfe4a6354937ed85a87bf1e420928d1f01",
+    "deployGas": "10000.0",
+    "deployTime": "2024-10-25T18:04:39.397",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "568653.83"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

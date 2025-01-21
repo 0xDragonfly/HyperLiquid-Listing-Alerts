@@ -1,0 +1,39 @@
+{
+    "name": "PICKL",
+    "maxSupply": "1000000.0",
+    "totalSupply": "999577.3712059",
+    "circulatingSupply": "980836.6902499",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": "0.20093",
+    "markPx": "0.20063",
+    "prevDayPx": "0.22264",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x6b76e618b489b2263407067a8ccd2a3891091274",
+                "350000.0"
+            ],
+            [
+                "0x9cb8214e4b919fea5ebc464c625c89af47eda038",
+                "50000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "600000.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x9cb8214e4b919fea5ebc464c625c89af47eda038",
+    "deployGas": "1951.430351",
+    "deployTime": "2024-09-28T13:12:37.249",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "18740.680956"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

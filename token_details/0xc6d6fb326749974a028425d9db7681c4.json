@@ -1,0 +1,114 @@
+{
+    "name": "LORA",
+    "maxSupply": "1004598.62",
+    "totalSupply": "1004127.58578712",
+    "circulatingSupply": "1004127.58578712",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.34269",
+    "markPx": "0.34218",
+    "prevDayPx": "0.35998",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x02153dd45a77b73ffc1098c9cec6d74b8795adbf",
+                "11779.81"
+            ],
+            [
+                "0x1c5bbb9564efdfef369be71290f2ca6b928f0d66",
+                "276.24"
+            ],
+            [
+                "0x302bb74dfb8c8eca0d2f15d25f5b5aa7e65e474d",
+                "0.0"
+            ],
+            [
+                "0x34a913d232d16f1ea05d1225383b899444637cbd",
+                "20071.96"
+            ],
+            [
+                "0x4d5a97cb2509580d2c3d623297e275b56c3df517",
+                "100.34"
+            ],
+            [
+                "0x4eab1d38e12f650c2dcd8df012b33fa54f3ff00f",
+                "26155.77"
+            ],
+            [
+                "0x501d904287681e2c158e9a9734ddeaa651f466d0",
+                "3976.22"
+            ],
+            [
+                "0x555a97609ea12c6c10cd66468b53da42788485d0",
+                "25777.87"
+            ],
+            [
+                "0x5b3d4ea987d3caf1a9337ae50c34dd3b8d26c949",
+                "22.81"
+            ],
+            [
+                "0x6bf98bbb390736d59c64038e7287022834e81143",
+                "287488.37"
+            ],
+            [
+                "0x73c4fd71af529d70c057f8bb081d808b902392b1",
+                "4886.92"
+            ],
+            [
+                "0x806e1bd75a09c539da13f3313dab67720551750e",
+                "2311.92"
+            ],
+            [
+                "0x9e109e957433580ac0cfb9aa68290a3e84fbf94a",
+                "6007.62"
+            ],
+            [
+                "0xa464abbf049fb75585484addcbc00169062e813a",
+                "64384.14"
+            ],
+            [
+                "0xbe10fd36393c8b677281d0bc2cf1bb8c98ad4b34",
+                "68083.01"
+            ],
+            [
+                "0xc21d75dd9b54ea79538d45b9b9cc878a2eac20b5",
+                "4582.84"
+            ],
+            [
+                "0xda17a1ca3bbce4c5c03fc0b58d253380defeaf47",
+                "4910.92"
+            ],
+            [
+                "0xe1083eaa2be3b9522cc7157e8fbb41d8e6eeb81e",
+                "6254.8"
+            ],
+            [
+                "0xee63685f630e0c8c442510f9d4467c9c71e627c7",
+                "1685.37"
+            ],
+            [
+                "0xf55417ef150d98da8cc700b3318b63ee56287f0e",
+                "2281.18"
+            ],
+            [
+                "0xfa796abd6fd475292525e690ef5f6df386690c9e",
+                "3058.22"
+            ],
+            [
+                "0xfd79f504f2826d1394103bb000026432513d7a21",
+                "20502.29"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "440000.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x302bb74dfb8c8eca0d2f15d25f5b5aa7e65e474d",
+    "deployGas": "12818.040084",
+    "deployTime": "2024-08-22T21:40:38.319",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

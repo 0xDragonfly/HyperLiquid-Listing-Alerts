@@ -1,0 +1,56 @@
+{
+    "name": "MBAPPE",
+    "maxSupply": "9999996.0",
+    "totalSupply": "9996022.413231",
+    "circulatingSupply": "6730522.4066644",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": "0.040555",
+    "markPx": "0.040495",
+    "prevDayPx": "0.041353",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x1992d237a1070587e28e2c039324c0bf5aa229f8",
+                "1100000.0"
+            ],
+            [
+                "0x8d7c9c134a8d46cc34b9a83bf3da4c94b903803f",
+                "300000.0"
+            ],
+            [
+                "0xb77e19156ff3b2720647106f0c25ddf4fab00adb",
+                "2000000.0"
+            ],
+            [
+                "0xda9ce995def8f2cb0fbe3716c8b194099b0d260b",
+                "300000.0"
+            ],
+            [
+                "0xe16500dae76bb9e9da2aa2b53972379bf4a8b3de",
+                "300000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "3999996.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "2000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xda9ce995def8f2cb0fbe3716c8b194099b0d260b",
+    "deployGas": "14059.702632",
+    "deployTime": "2024-07-22T01:30:43.325",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "3265500.0065666"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

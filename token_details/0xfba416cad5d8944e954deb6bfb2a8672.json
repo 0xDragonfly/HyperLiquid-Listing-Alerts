@@ -1,0 +1,35 @@
+{
+    "name": "TATE",
+    "maxSupply": "100000000.0",
+    "totalSupply": "99930094.32426",
+    "circulatingSupply": "99930094.32426",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.0152825",
+    "markPx": "0.01526",
+    "prevDayPx": "0.015305",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x3686713582dda8d80aecf7c9ad264a642df5339b",
+                "900000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "99000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "100000.0"
+            ]
+        ]
+    },
+    "deployer": "0xa9fb6044fc1f468955995b2c637bdc4ba7c1d2ea",
+    "deployGas": "17087.178681",
+    "deployTime": "2024-06-12T15:24:57.542",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

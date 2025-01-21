@@ -1,0 +1,87 @@
+{
+    "name": "PIGEON",
+    "maxSupply": "1000000.0",
+    "totalSupply": "999703.23213932",
+    "circulatingSupply": "569912.62213932",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.50063",
+    "markPx": "0.49988",
+    "prevDayPx": "0.51813",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0000000000000000000000000000000000000000",
+                "429790.61"
+            ],
+            [
+                "0x092eb19442a9a8925d65628588a9dd63391a8a0c",
+                "4244.73"
+            ],
+            [
+                "0x31519236b3e78a87033f80ade6033860a871f10f",
+                "21.74"
+            ],
+            [
+                "0x3642c47881295c1c82b9702e9ba730ba7116ab60",
+                "11254.59"
+            ],
+            [
+                "0x5a8e2fa814e7fac672b6ad020254c1e35e29e35c",
+                "0.0"
+            ],
+            [
+                "0x634e318f320064f5d17ca4644c3a53ce855c572e",
+                "23413.55"
+            ],
+            [
+                "0x73c4fd71af529d70c057f8bb081d808b902392b1",
+                "36897.99"
+            ],
+            [
+                "0xa3b6c22fcff9890b2e4908bb857b3d1d55259ae1",
+                "17275.15"
+            ],
+            [
+                "0xa464abbf049fb75585484addcbc00169062e813a",
+                "3687.23"
+            ],
+            [
+                "0xc75688361386b54c83869d9786918c831b070ad5",
+                "182.71"
+            ],
+            [
+                "0xd5af7ee876b264e5faa71248e0426631f11c05a4",
+                "8582.46"
+            ],
+            [
+                "0xe1083eaa2be3b9522cc7157e8fbb41d8e6eeb81e",
+                "8523.45"
+            ],
+            [
+                "0xf864499aa7c467c59ee04386a1bffacf02d36c2f",
+                "15226.57"
+            ],
+            [
+                "0xfd79f504f2826d1394103bb000026432513d7a21",
+                "40059.22"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "400840.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x5a8e2fa814e7fac672b6ad020254c1e35e29e35c",
+    "deployGas": "1802.724445",
+    "deployTime": "2024-09-16T12:05:11.759",
+    "seededUsdc": "698.38307",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "429790.61"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

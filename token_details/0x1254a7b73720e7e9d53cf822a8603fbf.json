@@ -1,0 +1,44 @@
+{
+    "name": "PURRPS",
+    "maxSupply": "999998800.0",
+    "totalSupply": "937459383.5869",
+    "circulatingSupply": "901768736.20264995",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00014023",
+    "markPx": "0.00014002",
+    "prevDayPx": "0.00015879",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x691cf5e7448cafdf338ad1524ebfab5a7af1f179",
+                "100000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "299998800.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "300000000.0"
+            ],
+            [
+                31,
+                "300000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x691cf5e7448cafdf338ad1524ebfab5a7af1f179",
+    "deployGas": "7637.654472",
+    "deployTime": "2024-06-29T23:34:58.652",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x000000000000000000000000000000000000dead",
+            "35690647.38425"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

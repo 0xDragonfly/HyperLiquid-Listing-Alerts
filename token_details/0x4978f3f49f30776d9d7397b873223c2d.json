@@ -1,0 +1,35 @@
+{
+    "name": "RUG",
+    "maxSupply": "100000000.0",
+    "totalSupply": "99780071.74597",
+    "circulatingSupply": "99780071.74597",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.010196",
+    "markPx": "0.010181",
+    "prevDayPx": "0.010831",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "50000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                2,
+                "10000000.0"
+            ],
+            [
+                9,
+                "40000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xd9e123f1d89860bca5f368e6cac0ccbf5f6b61af",
+    "deployGas": "0.0",
+    "deployTime": "2024-06-05T10:02:05.880",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

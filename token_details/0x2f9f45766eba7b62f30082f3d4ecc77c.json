@@ -1,0 +1,44 @@
+{
+    "name": "GPT",
+    "maxSupply": "9200000000.0",
+    "totalSupply": "9115849731.39127159",
+    "circulatingSupply": "3110151258.63340569",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": "0.000114",
+    "markPx": "0.000093",
+    "prevDayPx": "0.000095",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0c29bcec93af225ff7687684242b3c69efa1e00f",
+                "8000000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "200000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "1000000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x0c29bcec93af225ff7687684242b3c69efa1e00f",
+    "deployGas": "14218.71067",
+    "deployTime": "2024-07-02T07:19:26.208",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "6005176519.0"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "521953.757866"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

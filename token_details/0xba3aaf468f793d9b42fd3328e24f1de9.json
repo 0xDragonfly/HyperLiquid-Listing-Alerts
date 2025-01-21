@@ -1,0 +1,48 @@
+{
+    "name": "LICK",
+    "maxSupply": "6900000000.0",
+    "totalSupply": "6873012042.84965992",
+    "circulatingSupply": "4875012036.79333019",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00015738",
+    "markPx": "0.00015715",
+    "prevDayPx": "0.00017452",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x05abcb810ff5e0994343d161a78143c7e55ed69f",
+                "1380000000.0"
+            ],
+            [
+                "0x953e5e481e53ba2426a03f03e2f5b8982e3f548d",
+                "690000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "4140000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "690000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x1406125fde50b26bcd783b2cc1ed16a18621df27",
+    "deployGas": "0.0",
+    "deployTime": "2024-05-17T02:33:21.832",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "1998000004.64797997"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "1.40835"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

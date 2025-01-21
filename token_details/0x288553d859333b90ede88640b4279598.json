@@ -1,0 +1,56 @@
+{
+    "name": "VAULT",
+    "maxSupply": "10000000.0",
+    "totalSupply": "9996882.2636582",
+    "circulatingSupply": "9993084.81323444",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.24217",
+    "markPx": "0.24181",
+    "prevDayPx": "0.26838",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0e05f8659db97f3dd4daf73b398c62285438f19a",
+                "3200000.0"
+            ],
+            [
+                "0x2d3131001403320a579481d3b633b5b6817ef1c3",
+                "2500000.0"
+            ],
+            [
+                "0xe69e69f5dc6954d0726a8c6c240422f8a3dce8b0",
+                "600000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "2100000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                5,
+                "800000.0"
+            ],
+            [
+                150,
+                "800000.0"
+            ]
+        ]
+    },
+    "deployer": "0x0e291f917489d7f5a7035a302d7fea7861aa1d95",
+    "deployGas": "830.352182",
+    "deployTime": "2024-10-02T11:08:56.343",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "1.83485961"
+        ],
+        [
+            "0x000000000000000000000000000000000000dead",
+            "3795.61556415"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

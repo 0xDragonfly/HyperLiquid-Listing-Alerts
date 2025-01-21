@@ -1,0 +1,35 @@
+{
+    "name": "ANSEM",
+    "maxSupply": "100000000.0",
+    "totalSupply": "99961265.46433",
+    "circulatingSupply": "99961265.46433",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.011573",
+    "markPx": "0.011556",
+    "prevDayPx": "0.01159",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x369f6f68af27341fc6939b1ef5d0cbbd3fdfdf95",
+                "900000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "99000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "100000.0"
+            ]
+        ]
+    },
+    "deployer": "0xedf5a40efa20b78beffc2e1c02be97b9fb726662",
+    "deployGas": "9595.429081",
+    "deployTime": "2024-06-12T03:56:13.771",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

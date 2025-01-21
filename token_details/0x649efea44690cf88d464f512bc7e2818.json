@@ -1,0 +1,63 @@
+{
+    "name": "WAGMI",
+    "maxSupply": "420000000.0",
+    "totalSupply": "367463293.21606511",
+    "circulatingSupply": "367463293.21606511",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.00121",
+    "markPx": "0.001208",
+    "prevDayPx": "0.001288",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x47dcb6e3490426c1b045ae2ca87117f59f134d7c",
+                "2100000.0"
+            ],
+            [
+                "0x54994b47d5adb81e6332db851988966f2c9f04bc",
+                "2100000.0"
+            ],
+            [
+                "0x8054fac1a063a2ee9422ebe48448f0c5167eb33c",
+                "2100000.0"
+            ],
+            [
+                "0xe751d56c31dc1b16595a2cdfc94388687e26a674",
+                "5250000.0"
+            ],
+            [
+                "0xe92dbea8ff2ca9b9bed9b83ca1e52a74c5ab7795",
+                "42000000.0"
+            ],
+            [
+                "0xe9e5cd851012efbdb7c2a1924922759d8d1ee45e",
+                "5250000.0"
+            ],
+            [
+                "0xfa531d87557be2ee1f86a47af5d41a5485cb063c",
+                "42000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "180600000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "69300000.0"
+            ],
+            [
+                2,
+                "69300000.0"
+            ]
+        ]
+    },
+    "deployer": "0x86c66b00257dc08d4e33dc7c50e9a05c1937b397",
+    "deployGas": "0.0",
+    "deployTime": "2024-05-26T17:00:57.523",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [],
+    "futureEmissions": "0.0"
+}

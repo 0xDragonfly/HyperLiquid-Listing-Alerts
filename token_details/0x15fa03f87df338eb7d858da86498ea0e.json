@@ -1,0 +1,44 @@
+{
+    "name": "JEET",
+    "maxSupply": "100074000.0",
+    "totalSupply": "94223085.39092",
+    "circulatingSupply": "82811490.8345",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.0018505",
+    "markPx": "0.00176",
+    "prevDayPx": "0.00176",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x1f63c911f680ade9bf7f8984fac2128873c2b7a7",
+                "8000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "22074000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                9,
+                "40000000.0"
+            ],
+            [
+                24,
+                "30000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x1f63c911f680ade9bf7f8984fac2128873c2b7a7",
+    "deployGas": "10109.805395",
+    "deployTime": "2024-07-28T08:12:21.505",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x000000000000000000000000000000000000dead",
+            "11411594.55642"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

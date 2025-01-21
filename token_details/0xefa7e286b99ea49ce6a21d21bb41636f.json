@@ -1,0 +1,35 @@
+{
+    "name": "PUMP",
+    "maxSupply": "1050000000.0",
+    "totalSupply": "1047328089.96045995",
+    "circulatingSupply": "1047328089.05148995",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00032621",
+    "markPx": "0.00032572",
+    "prevDayPx": "0.00032768",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x3897a4701f7da780384c4ba44ef30ed7b18c3830",
+                "50000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "1000000000.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0x3897a4701f7da780384c4ba44ef30ed7b18c3830",
+    "deployGas": "8180.315059",
+    "deployTime": "2024-06-21T01:38:42.606",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "0.90897"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

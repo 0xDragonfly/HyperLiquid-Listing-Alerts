@@ -1,0 +1,40 @@
+{
+    "name": "TRUMP",
+    "maxSupply": "100000000.0",
+    "totalSupply": "99740568.8354014",
+    "circulatingSupply": "99740568.82562269",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": "0.002886",
+    "markPx": "0.003182",
+    "prevDayPx": "0.007033",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "50000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                4,
+                "10000000.0"
+            ],
+            [
+                6,
+                "40000000.0"
+            ]
+        ]
+    },
+    "deployer": "0x2857532d16209ada3869fb65df859a3320de5e14",
+    "deployGas": "0.0",
+    "deployTime": "2024-05-31T01:47:48.220",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "0.0097787"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

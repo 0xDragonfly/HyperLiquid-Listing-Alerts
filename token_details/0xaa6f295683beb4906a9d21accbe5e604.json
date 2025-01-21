@@ -1,0 +1,83 @@
+{
+    "name": "HPUMP",
+    "maxSupply": "1000000.0",
+    "totalSupply": "975008.41646993",
+    "circulatingSupply": "496544.23646993",
+    "szDecimals": 2,
+    "weiDecimals": 8,
+    "midPx": "0.64157",
+    "markPx": "0.64061",
+    "prevDayPx": "0.69238",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0000000000000000000000000000000000000000",
+                "478464.18"
+            ],
+            [
+                "0x3f4234450e9a67b45cb5fa5d4de9a5dde4eb3f4f",
+                "5377.7"
+            ],
+            [
+                "0x634e318f320064f5d17ca4644c3a53ce855c572e",
+                "24935.63"
+            ],
+            [
+                "0x6b22cbe6aaf210304fe7b0101b99bc901695ead6",
+                "8935.3"
+            ],
+            [
+                "0x7933bb369d5ebb28f8da0e5907fe3cd4b3de61d0",
+                "11666.59"
+            ],
+            [
+                "0x8ee850b65aa68e44198f252ed118100cdec9626e",
+                "4777.54"
+            ],
+            [
+                "0xa464abbf049fb75585484addcbc00169062e813a",
+                "8671.65"
+            ],
+            [
+                "0xe1083eaa2be3b9522cc7157e8fbb41d8e6eeb81e",
+                "4017.78"
+            ],
+            [
+                "0xec75eff270430c872d903efa52f21114f9e88c6a",
+                "0.0"
+            ],
+            [
+                "0xf02a6b573bec67d0da22681fce615cacd04d2932",
+                "1907.62"
+            ],
+            [
+                "0xf189bd968f50b31b6ac4f9ab54fbed892f21cb0e",
+                "22155.95"
+            ],
+            [
+                "0xf33d8d204e987d8d8928d92a6554af3b5c408bf9",
+                "393.13"
+            ],
+            [
+                "0xfd79f504f2826d1394103bb000026432513d7a21",
+                "23236.93"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "405460.0"
+            ]
+        ],
+        "existingTokenBalances": []
+    },
+    "deployer": "0xec75eff270430c872d903efa52f21114f9e88c6a",
+    "deployGas": "1311.976941",
+    "deployTime": "2024-09-15T06:50:15.133",
+    "seededUsdc": "572.4818",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "478464.18"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

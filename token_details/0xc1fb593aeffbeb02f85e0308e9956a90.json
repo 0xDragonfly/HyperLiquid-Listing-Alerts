@@ -1,0 +1,23 @@
+{
+    "name": "PURR",
+    "maxSupply": "1000000000.0",
+    "totalSupply": "597683267.90740001",
+    "circulatingSupply": "597683263.38468003",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.227915",
+    "markPx": "0.22804",
+    "prevDayPx": "0.20694",
+    "genesis": null,
+    "deployer": null,
+    "deployGas": "0.0",
+    "deployTime": null,
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "4.52272"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

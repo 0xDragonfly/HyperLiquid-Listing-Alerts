@@ -1,0 +1,40 @@
+{
+    "name": "BID",
+    "maxSupply": "21000000000.0",
+    "totalSupply": "20370715829.52088165",
+    "circulatingSupply": "19934305008.31087875",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00001266",
+    "markPx": "0.00001264",
+    "prevDayPx": "0.00001252",
+    "genesis": {
+        "userBalances": [
+            [
+                "0xeb074cf1766076c39c10ce960676c73f0b6dd01b",
+                "2100000000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "10500000000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "8400000000.0"
+            ]
+        ]
+    },
+    "deployer": "0xeb074cf1766076c39c10ce960676c73f0b6dd01b",
+    "deployGas": "8367.898458",
+    "deployTime": "2024-07-05T09:22:35.449",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x000000000000000000000000000000000000dead",
+            "436410821.20999998"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

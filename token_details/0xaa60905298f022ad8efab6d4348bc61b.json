@@ -1,0 +1,44 @@
+{
+    "name": "UP",
+    "maxSupply": "10000000.0",
+    "totalSupply": "9991661.623948",
+    "circulatingSupply": "9969263.3741227",
+    "szDecimals": 2,
+    "weiDecimals": 7,
+    "midPx": "0.078235",
+    "markPx": "0.078352",
+    "prevDayPx": "0.054855",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x1b84c33a276bb691ed1b302a717a2a56cd2cbe8a",
+                "420000.0"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "8470000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "690000.0"
+            ],
+            [
+                76,
+                "420000.0"
+            ]
+        ]
+    },
+    "deployer": "0x1b84c33a276bb691ed1b302a717a2a56cd2cbe8a",
+    "deployGas": "292.889712",
+    "deployTime": "2024-10-14T03:17:00.765",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "22398.2498253"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}

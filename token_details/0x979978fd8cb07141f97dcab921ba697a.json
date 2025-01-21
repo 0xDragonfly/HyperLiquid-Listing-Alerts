@@ -1,0 +1,48 @@
+{
+    "name": "BAGS",
+    "maxSupply": "777777333.10000002",
+    "totalSupply": "733559536.78069997",
+    "circulatingSupply": "733500615.13038003",
+    "szDecimals": 0,
+    "weiDecimals": 5,
+    "midPx": "0.00064339",
+    "markPx": "0.00064243",
+    "prevDayPx": "0.00064629",
+    "genesis": {
+        "userBalances": [
+            [
+                "0x0000000000000000000000000000000000000000",
+                "0.0"
+            ],
+            [
+                "0x658be0b5fd675b279779d45990904c6392c8b49f",
+                "38888888.85"
+            ],
+            [
+                "0xffffffffffffffffffffffffffffffffffffffff",
+                "544444000.0"
+            ]
+        ],
+        "existingTokenBalances": [
+            [
+                1,
+                "155555555.40000001"
+            ],
+            [
+                2,
+                "38888888.85"
+            ]
+        ]
+    },
+    "deployer": "0x658be0b5fd675b279779d45990904c6392c8b49f",
+    "deployGas": "18304.005463",
+    "deployTime": "2024-06-10T16:20:32.491",
+    "seededUsdc": "0.0",
+    "nonCirculatingUserBalances": [
+        [
+            "0x0000000000000000000000000000000000000000",
+            "58921.65032"
+        ]
+    ],
+    "futureEmissions": "0.0"
+}
